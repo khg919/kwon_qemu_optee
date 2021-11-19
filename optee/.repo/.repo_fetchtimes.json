@@ -1,0 +1,13 @@
+{
+  "OP-TEE/build.git": 1.0522708892822266,
+  "buildroot/buildroot.git": 2.31459641456604,
+  "linaro-swg/linux.git": 63.90363430976868,
+  "linaro-swg/optee_benchmark.git": 2.7189292907714844,
+  "OP-TEE/optee_client.git": 2.5557217597961426,
+  "linaro-swg/optee_examples.git": 1.1401164531707764,
+  "OP-TEE/optee_os.git": 3.6521809101104736,
+  "OP-TEE/optee_test.git": 2.9653825759887695,
+  "qemu/qemu.git": 6.317718505859375,
+  "TF-A/trusted-firmware-a.git": 15.223497867584229,
+  "u-boot.git": 22.93151044845581
+}

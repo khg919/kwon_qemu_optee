@@ -1,0 +1,12 @@
+optee_client_ext,./usr/include/tee_bench.h
+optee_client_ext,./usr/include/tee_client_api.h
+optee_client_ext,./usr/include/tee_client_api_extensions.h
+optee_client_ext,./usr/include/tee_plugin_method.h
+optee_client_ext,./usr/include/teec_trace.h
+optee_client_ext,./usr/include/ck_debug.h
+optee_client_ext,./usr/include/pkcs11.h
+optee_client_ext,./usr/include/pkcs11_ta.h
+optee_client_ext,./usr/lib/libckteec.so.0.1.0
+optee_client_ext,./usr/lib/libteec.so.1.0.0
+optee_client_ext,./usr/sbin/tee-supplicant
+optee_client_ext,./etc/init.d/S30optee

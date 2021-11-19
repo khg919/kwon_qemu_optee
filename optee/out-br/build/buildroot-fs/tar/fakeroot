@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+chown -h -R 0:0 /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/tar/target
+/home/qemu-sgx/devel/optee/out-br/host/bin/makedevs -d /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/full_devices_table.txt /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/tar/target
+   
+   
+   	(cd /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/tar/target; find -print0 | LC_ALL=C sort -z | tar  --pax-option=exthdr.name=%d/PaxHeaders/%f,atime:=0,ctime:=0 -cf /home/qemu-sgx/devel/optee/out-br/images/rootfs.tar --null --xattrs-include='*' --no-recursion -T - --numeric-owner)

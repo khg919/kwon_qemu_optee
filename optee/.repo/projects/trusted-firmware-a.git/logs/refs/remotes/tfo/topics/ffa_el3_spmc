@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 278e7a0660b1b52817885234db5ba48fe0a29eee khg919 <mbrident@gmail.com> 1636468235 +0900	fetch --quiet --progress tfo --tags +refs/heads/*:refs/remotes/tfo/* +refs/tags/v2.5:refs/tags/v2.5 +refs/tags/*:refs/tags/*: storing head

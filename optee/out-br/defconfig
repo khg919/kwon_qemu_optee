@@ -1,0 +1,47 @@
+# Architecture
+BR2_arm=y
+BR2_cortex_a15=y
+BR2_ARM_FPU_VFPV3D16=y
+BR2_ARM_INSTRUCTIONS_THUMB2=y
+BR2_CCACHE=y
+BR2_TARGET_GENERIC_ISSUE="Welcome to Buildroot, type root or test to login"
+
+BR2_TARGET_ROOTFS_CPIO=y
+BR2_TARGET_ROOTFS_CPIO_GZIP=y
+BR2_PACKAGE_HOST_E2FSPROGS=y
+BR2_PACKAGE_OPTEE_CLIENT_EXT=y
+BR2_TOOLCHAIN_EXTERNAL=y
+BR2_TOOLCHAIN_EXTERNAL_CUSTOM=y
+BR2_TOOLCHAIN_EXTERNAL_PATH="/home/qemu-sgx/devel/optee/build/../toolchains/aarch32"
+BR2_TOOLCHAIN_EXTERNAL_CUSTOM_PREFIX="arm-linux-gnueabihf"
+BR2_TOOLCHAIN_EXTERNAL_GCC_10=y
+BR2_TOOLCHAIN_EXTERNAL_HEADERS_4_20=y
+BR2_TOOLCHAIN_EXTERNAL_CUSTOM_GLIBC=y
+BR2_TOOLCHAIN_EXTERNAL_CXX=y
+
+BR2_PACKAGE_LIBOPENSSL=y
+BR2_PACKAGE_STRACE=y
+BR2_ROOTFS_POST_BUILD_SCRIPT="/home/qemu-sgx/devel/optee/build/../build/br-ext/board/qemu/post-build.sh"
+BR2_PACKAGE_OPTEE_TEST_EXT_WITH_CXX_TESTS=y
+BR2_PACKAGE_OPTEE_OS_EXT=y
+BR2_PACKAGE_OPTEE_OS_EXT_SDK="/home/qemu-sgx/devel/optee/build/../optee_os/out/arm/export-ta_arm32"
+BR2_PACKAGE_OPTEE_EXAMPLES_EXT_SDK="/home/qemu-sgx/devel/optee/build/../optee_os/out/arm/export-ta_arm32"
+BR2_ROOTFS_POST_SCRIPT_ARGS="n /mnt/host n"
+BR2_PACKAGE_OPTEE_BENCHMARK_EXT_SITE=""
+BR2_PACKAGE_MMC_UTILS=y
+BR2_PACKAGE_OPTEE_EXAMPLES_EXT_CROSS_COMPILE=" /home/qemu-sgx/devel/optee/build/../toolchains/aarch32/bin/arm-linux-gnueabihf-"
+BR2_PACKAGE_OPTEE_TEST_EXT_CROSS_COMPILE=" /home/qemu-sgx/devel/optee/build/../toolchains/aarch32/bin/arm-linux-gnueabihf-"
+BR2_PACKAGE_OPTEE_TEST_EXT_SITE="/home/qemu-sgx/devel/optee/build/../optee_test"
+BR2_PACKAGE_OPTEE_TEST_EXT=y
+BR2_PACKAGE_OPTEE_OS_EXT_SITE="/home/qemu-sgx/devel/optee/build/br-ext/package/optee_os_ext"
+BR2_PACKAGE_OPTEE_TEST_EXT_SDK="/home/qemu-sgx/devel/optee/build/../optee_os/out/arm/export-ta_arm32"
+BR2_ROOTFS_OVERLAY="/home/qemu-sgx/devel/optee/build/../build/br-ext/board/qemu/overlay"
+BR2_TARGET_GENERIC_GETTY_PORT="ttyAMA0"
+BR2_PACKAGE_OPTEE_TEST_EXT_GP_PACKAGE=""
+BR2_PACKAGE_OPENSC=y
+BR2_PACKAGE_OPENSSL=y
+BR2_PACKAGE_OPTEE_TEST_EXT_WITH_TLS_TESTS=y
+BR2_PACKAGE_OPTEE_BENCHMARK_EXT=n
+BR2_PACKAGE_OPTEE_CLIENT_EXT_SITE="/home/qemu-sgx/devel/optee/build/../optee_client"
+BR2_PACKAGE_OPTEE_EXAMPLES_EXT_SITE="/home/qemu-sgx/devel/optee/build/../optee_examples"
+BR2_PACKAGE_OPTEE_EXAMPLES_EXT=y

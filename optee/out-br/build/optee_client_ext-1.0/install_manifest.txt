@@ -1,0 +1,15 @@
+/usr/lib/libteec.so.1.0.0
+/usr/lib/libteec.so.1
+/usr/lib/libteec.so
+/usr/sbin/tee-supplicant
+/usr/include/tee_bench.h
+/usr/include/tee_client_api.h
+/usr/include/tee_client_api_extensions.h
+/usr/include/tee_plugin_method.h
+/usr/include/teec_trace.h
+/usr/lib/libckteec.so.0.1.0
+/usr/lib/libckteec.so.0
+/usr/lib/libckteec.so
+/usr/include/ck_debug.h
+/usr/include/pkcs11.h
+/usr/include/pkcs11_ta.h

@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+[remote "github"]
+	url = https://github.com/OP-TEE/optee_os.git
+	projectname = OP-TEE/optee_os.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[gc]
+	autoDetach = false

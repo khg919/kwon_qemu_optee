@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 d5572fade85243514566f02a1d82e15defdf3191 khg919 <mbrident@gmail.com> 1636468211 +0900	fetch --quiet --progress github --tags +refs/heads/*:refs/remotes/github/* +refs/heads/master:refs/remotes/github/master +refs/tags/*:refs/tags/*: storing head

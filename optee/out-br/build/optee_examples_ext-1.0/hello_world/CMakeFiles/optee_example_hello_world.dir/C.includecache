@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/hello_world/host/main.c
+err.h
+-
+stdio.h
+-
+string.h
+-
+tee_client_api.h
+-
+hello_world_ta.h
+-
+
+hello_world/ta/include/hello_world_ta.h
+

@@ -1,0 +1,4 @@
+strace,./usr/bin/strace
+strace,./usr/bin/strace-log-merge
+strace,./usr/share/man/man1/strace.1
+strace,./usr/share/man/man1/strace-log-merge.1

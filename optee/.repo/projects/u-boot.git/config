@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+[remote "u-boot"]
+	url = https://gitlab.denx.de/u-boot/u-boot.git
+	projectname = u-boot.git
+	fetch = +refs/heads/*:refs/remotes/u-boot/*
+[gc]
+	autoDetach = false

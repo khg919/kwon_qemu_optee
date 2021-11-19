@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/hotp/host/main.c
+err.h
+-
+stdio.h
+-
+string.h
+-
+tee_client_api.h
+-
+hotp_ta.h
+-
+
+hotp/ta/include/hotp_ta.h
+

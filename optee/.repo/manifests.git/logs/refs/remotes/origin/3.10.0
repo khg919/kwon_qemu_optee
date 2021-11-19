@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 51240a45d6e8fc49ba6c960e1cc1fb4e813de33c khg919 <mbrident@gmail.com> 1636468127 +0900	fetch --quiet --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/*: storing head

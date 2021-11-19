@@ -1,0 +1,8 @@
+optee_examples_ext,./usr/bin/optee_example_acipher
+optee_examples_ext,./usr/bin/optee_example_hello_world
+optee_examples_ext,./usr/bin/optee_example_plugins
+optee_examples_ext,./usr/bin/optee_example_random
+optee_examples_ext,./usr/bin/optee_example_hotp
+optee_examples_ext,./usr/bin/optee_example_secure_storage
+optee_examples_ext,./usr/bin/optee_example_aes
+optee_examples_ext,./usr/lib/tee-supplicant/plugins/96bcf744-4f72-4866-bf1d-8634fd9c65e5.plugin.so

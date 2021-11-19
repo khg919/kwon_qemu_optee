@@ -1,0 +1,10 @@
+prefix=/home/qemu-sgx/devel/optee/out-br/host
+exec_prefix=/home/qemu-sgx/devel/optee/out-br/host
+libdir=/home/qemu-sgx/devel/optee/out-br/host/lib
+includedir=/home/qemu-sgx/devel/optee/out-br/host/include
+
+Name: blkid
+Description: Block device id library
+Version: 2.36.2
+Cflags: -I${includedir}/blkid
+Libs: -L${libdir} -lblkid

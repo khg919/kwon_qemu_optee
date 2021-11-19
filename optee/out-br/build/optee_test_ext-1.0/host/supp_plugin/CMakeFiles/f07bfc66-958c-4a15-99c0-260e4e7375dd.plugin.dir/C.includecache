@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_test_ext-1.0/host/supp_plugin/test_supp_plugin.c
+stdio.h
+-
+stdint.h
+-
+stddef.h
+-
+string.h
+-
+stdlib.h
+-
+limits.h
+-
+tee_plugin_method.h
+-
+test_supp_plugin.h
+-
+unistd.h
+-
+
+host/supp_plugin/include/test_supp_plugin.h
+

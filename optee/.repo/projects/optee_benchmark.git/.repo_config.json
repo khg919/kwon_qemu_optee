@@ -1,0 +1,26 @@
+{
+  "core.repositoryformatversion": [
+    "0"
+  ],
+  "core.filemode": [
+    "true"
+  ],
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ],
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ],
+  "remote.github.url": [
+    "https://github.com/linaro-swg/optee_benchmark.git"
+  ],
+  "remote.github.projectname": [
+    "linaro-swg/optee_benchmark.git"
+  ],
+  "remote.github.fetch": [
+    "+refs/heads/*:refs/remotes/github/*"
+  ],
+  "gc.autodetach": [
+    "false"
+  ]
+}

@@ -1,0 +1,16 @@
+AC_DEFUN([st_CHECK_ENUMS],[
+	st_CHECK_ENUMS_loop_flags_options
+	st_CHECK_ENUMS_rtnl_tc_action_attrs
+	st_CHECK_ENUMS_sysctl_kern
+	st_CHECK_ENUMS_sysctl_net
+	st_CHECK_ENUMS_sysctl_net_core
+	st_CHECK_ENUMS_sysctl_net_ipv4
+	st_CHECK_ENUMS_sysctl_net_ipv4_conf
+	st_CHECK_ENUMS_sysctl_net_ipv4_route
+	st_CHECK_ENUMS_sysctl_net_ipv6
+	st_CHECK_ENUMS_sysctl_net_ipv6_route
+	st_CHECK_ENUMS_sysctl_net_unix
+	st_CHECK_ENUMS_sysctl_root
+	st_CHECK_ENUMS_sysctl_vm
+	st_CHECK_ENUMS_waitid_types
+])

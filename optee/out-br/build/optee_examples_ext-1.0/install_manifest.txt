@@ -1,0 +1,8 @@
+/usr/bin/optee_example_acipher
+/usr/bin/optee_example_aes
+/usr/bin/optee_example_hello_world
+/usr/bin/optee_example_hotp
+/usr/bin/optee_example_plugins
+/usr/lib/tee-supplicant/plugins/96bcf744-4f72-4866-bf1d-8634fd9c65e5.plugin.so
+/usr/bin/optee_example_random
+/usr/bin/optee_example_secure_storage

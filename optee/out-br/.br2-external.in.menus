@@ -1,0 +1,10 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+menu "External options"
+
+comment "OP-TEE br2-external tree (in /home/qemu-sgx/devel/optee/build/br-ext)"
+source "/home/qemu-sgx/devel/optee/build/br-ext/Config.in"
+
+endmenu

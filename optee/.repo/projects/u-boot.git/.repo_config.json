@@ -1,0 +1,26 @@
+{
+  "core.repositoryformatversion": [
+    "0"
+  ],
+  "core.filemode": [
+    "true"
+  ],
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ],
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ],
+  "remote.u-boot.url": [
+    "https://gitlab.denx.de/u-boot/u-boot.git"
+  ],
+  "remote.u-boot.projectname": [
+    "u-boot.git"
+  ],
+  "remote.u-boot.fetch": [
+    "+refs/heads/*:refs/remotes/u-boot/*"
+  ],
+  "gc.autodetach": [
+    "false"
+  ]
+}

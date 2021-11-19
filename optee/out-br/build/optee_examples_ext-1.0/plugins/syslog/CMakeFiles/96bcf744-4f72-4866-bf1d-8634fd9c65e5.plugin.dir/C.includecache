@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/plugins/syslog/syslog_plugin.c
+stddef.h
+-
+syslog.h
+-
+tee_plugin_method.h
+-
+

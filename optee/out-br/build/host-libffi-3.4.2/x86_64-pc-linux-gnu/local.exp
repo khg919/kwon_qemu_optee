@@ -1,0 +1,3 @@
+set CC_FOR_TARGET "/home/qemu-sgx/devel/optee/out-br/host/bin/ccache /usr/bin/gcc"
+set CXX_FOR_TARGET "/home/qemu-sgx/devel/optee/out-br/host/bin/ccache /usr/bin/g++"
+set compiler_vendor "gnu"

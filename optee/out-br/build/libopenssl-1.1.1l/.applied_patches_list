@@ -1,0 +1,7 @@
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0001-Dont-waste-time-building-manpages-if-we-re-not-going.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0002-Reproducible-build-do-not-leak-compiler-path.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0003-Introduce-the-OPENSSL_NO_MADVISE-to-disable-call-to-.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0004-Configure-use-ELFv2-ABI-on-some-ppc64-big-endian-sys.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0005-crypto-perlasm-ppc-xlate.pl-add-linux64v2-flavour.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0006-Add-support-for-io_pgetevents_time64-syscall.patch
+/home/qemu-sgx/devel/optee/buildroot/package/libopenssl/0007-Fixup-support-for-io_pgetevents_time64-syscall.patch

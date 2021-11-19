@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+chown -h -R 0:0 /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target
+/home/qemu-sgx/devel/optee/out-br/host/bin/makedevs -d /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/full_devices_table.txt /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target
+   	if [ ! -e /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target/init ]; then /bin/install -m 0755 fs/cpio/init /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target/init; fi
+	mkdir -p /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target/dev
+	mknod -m 0622 /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target/dev/console c 5 1
+   
+   
+   	cd /home/qemu-sgx/devel/optee/out-br/build/buildroot-fs/cpio/target && find . | LC_ALL=C sort | cpio  --quiet -o -H newc > /home/qemu-sgx/devel/optee/out-br/images/rootfs.cpio

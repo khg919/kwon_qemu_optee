@@ -1,0 +1,2727 @@
+1636469105.052710483:start:download            : host-skeleton
+1636469105.055297339:end  :download            : host-skeleton
+1636469105.065056962:start:extract             : host-skeleton
+1636469105.068350217:end  :extract             : host-skeleton
+1636469105.077742925:start:patch               : host-skeleton
+1636469105.084401769:end  :patch               : host-skeleton
+1636469105.093881340:start:configure           : host-skeleton
+1636469105.100436953:end  :configure           : host-skeleton
+1636469105.109779851:start:build               : host-skeleton
+1636469105.111395047:end  :build               : host-skeleton
+1636469105.120729879:start:install-host        : host-skeleton
+1636469105.126883145:end  :install-host        : host-skeleton
+1636469105.164017826:start:download            : host-ccache
+1636469105.992900300:end  :download            : host-ccache
+1636469106.003125227:start:extract             : host-ccache
+1636469106.025147237:end  :extract             : host-ccache
+1636469106.035159521:start:patch               : host-ccache
+1636469106.051709116:end  :patch               : host-ccache
+1636469106.063998488:start:configure           : host-ccache
+1636469108.196183650:end  :configure           : host-ccache
+1636469108.206606331:start:build               : host-ccache
+1636469108.820986611:end  :build               : host-ccache
+1636469108.831299873:start:install-host        : host-ccache
+1636469108.840731714:end  :install-host        : host-ccache
+1636469108.896317041:start:download            : host-attr
+1636469109.802644805:end  :download            : host-attr
+1636469109.812652367:start:extract             : host-attr
+1636469109.832911795:end  :extract             : host-attr
+1636469109.842799155:start:patch               : host-attr
+1636469109.861688533:end  :patch               : host-attr
+1636469109.873390366:start:configure           : host-attr
+1636469113.654108203:end  :configure           : host-attr
+1636469113.664597663:start:build               : host-attr
+1636469113.973303495:end  :build               : host-attr
+1636469113.983962643:start:install-host        : host-attr
+1636469114.059542134:end  :install-host        : host-attr
+1636469114.114901421:start:download            : host-acl
+1636469114.767141985:end  :download            : host-acl
+1636469114.777003245:start:extract             : host-acl
+1636469114.799471719:end  :extract             : host-acl
+1636469114.809361246:start:patch               : host-acl
+1636469114.828475345:end  :patch               : host-acl
+1636469114.840006214:start:configure           : host-acl
+1636469118.025794345:end  :configure           : host-acl
+1636469118.036318603:start:build               : host-acl
+1636469118.706501775:end  :build               : host-acl
+1636469118.717045630:start:install-host        : host-acl
+1636469118.794470018:end  :install-host        : host-acl
+1636469118.858626344:start:download            : host-m4
+1636469120.247904678:end  :download            : host-m4
+1636469120.258615931:start:extract             : host-m4
+1636469120.325444947:end  :extract             : host-m4
+1636469120.335871284:start:patch               : host-m4
+1636469120.372477356:end  :patch               : host-m4
+1636469120.385602728:start:configure           : host-m4
+1636469137.196557091:end  :configure           : host-m4
+1636469137.206840114:start:build               : host-m4
+1636469138.088013775:end  :build               : host-m4
+1636469138.101163463:start:install-host        : host-m4
+1636469138.415696883:end  :install-host        : host-m4
+1636469138.595576026:start:download            : host-libtool
+1636469139.363878239:end  :download            : host-libtool
+1636469139.373924124:start:extract             : host-libtool
+1636469139.426332786:end  :extract             : host-libtool
+1636469139.436613978:start:patch               : host-libtool
+1636469139.448243096:end  :patch               : host-libtool
+1636469139.458906174:start:configure           : host-libtool
+1636469146.139255195:end  :configure           : host-libtool
+1636469146.149312472:start:build               : host-libtool
+1636469147.249153756:end  :build               : host-libtool
+1636469147.287159908:start:install-host        : host-libtool
+1636469147.817750280:end  :install-host        : host-libtool
+1636469148.119848208:start:download            : host-autoconf
+1636469148.907050631:end  :download            : host-autoconf
+1636469148.917244487:start:extract             : host-autoconf
+1636469148.976667184:end  :extract             : host-autoconf
+1636469148.986937124:start:patch               : host-autoconf
+1636469149.002649296:end  :patch               : host-autoconf
+1636469149.013333457:start:configure           : host-autoconf
+1636469150.994669020:end  :configure           : host-autoconf
+1636469151.032425192:start:build               : host-autoconf
+1636469151.499141665:end  :build               : host-autoconf
+1636469151.509223579:start:install-host        : host-autoconf
+1636469151.933929420:end  :install-host        : host-autoconf
+1636469152.261523241:start:download            : host-automake
+1636469153.034375239:end  :download            : host-automake
+1636469153.044574292:start:extract             : host-automake
+1636469153.121334724:end  :extract             : host-automake
+1636469153.131567562:start:patch               : host-automake
+1636469153.151746111:end  :patch               : host-automake
+1636469153.162691745:start:configure           : host-automake
+1636469154.926157675:end  :configure           : host-automake
+1636469154.936406616:start:build               : host-automake
+1636469154.996471244:end  :build               : host-automake
+1636469155.006927521:start:install-host        : host-automake
+1636469155.093481769:end  :install-host        : host-automake
+1636469155.307428992:start:download            : host-fakeroot
+1636469157.297309353:end  :download            : host-fakeroot
+1636469157.307704322:start:extract             : host-fakeroot
+1636469157.315023814:end  :extract             : host-fakeroot
+1636469157.325433572:start:patch               : host-fakeroot
+1636469157.353432339:end  :patch               : host-fakeroot
+1636469157.365253021:start:configure           : host-fakeroot
+1636469167.699215366:end  :configure           : host-fakeroot
+1636469167.709299681:start:build               : host-fakeroot
+1636469168.091841060:end  :build               : host-fakeroot
+1636469168.102402523:start:install-host        : host-fakeroot
+1636469168.241489765:end  :install-host        : host-fakeroot
+1636469168.368235901:start:download            : host-makedevs
+1636469168.382055924:end  :download            : host-makedevs
+1636469168.418263743:start:extract             : host-makedevs
+1636469168.441867300:end  :extract             : host-makedevs
+1636469168.478768106:start:patch               : host-makedevs
+1636469168.515453996:end  :patch               : host-makedevs
+1636469168.552936689:start:configure           : host-makedevs
+1636469168.586817404:end  :configure           : host-makedevs
+1636469168.596501903:start:build               : host-makedevs
+1636469168.708370879:end  :build               : host-makedevs
+1636469168.718294495:start:install-host        : host-makedevs
+1636469168.721698804:end  :install-host        : host-makedevs
+1636469168.805960839:start:download            : skeleton-init-common
+1636469168.811061049:end  :download            : skeleton-init-common
+1636469168.828568764:start:extract             : skeleton-init-common
+1636469168.836180822:end  :extract             : skeleton-init-common
+1636469168.853785096:start:patch               : skeleton-init-common
+1636469168.869040038:end  :patch               : skeleton-init-common
+1636469168.888891408:start:configure           : skeleton-init-common
+1636469168.909962171:end  :configure           : skeleton-init-common
+1636469168.946614054:start:build               : skeleton-init-common
+1636469168.955291554:end  :build               : skeleton-init-common
+1636469168.990186592:start:install-staging     : skeleton-init-common
+1636469169.054956504:end  :install-staging     : skeleton-init-common
+1636469169.095101574:start:install-target      : skeleton-init-common
+1636469169.159765097:end  :install-target      : skeleton-init-common
+1636469169.381430485:start:download            : skeleton-init-sysv
+1636469169.395274905:end  :download            : skeleton-init-sysv
+1636469169.432659138:start:extract             : skeleton-init-sysv
+1636469169.450870508:end  :extract             : skeleton-init-sysv
+1636469169.487083725:start:patch               : skeleton-init-sysv
+1636469169.504917210:end  :patch               : skeleton-init-sysv
+1636469169.514879856:start:configure           : skeleton-init-sysv
+1636469169.523187328:end  :configure           : skeleton-init-sysv
+1636469169.533245116:start:build               : skeleton-init-sysv
+1636469169.535032986:end  :build               : skeleton-init-sysv
+1636469169.544402541:start:install-target      : skeleton-init-sysv
+1636469169.550029430:end  :install-target      : skeleton-init-sysv
+1636469169.588613304:start:download            : skeleton
+1636469169.591519105:end  :download            : skeleton
+1636469169.601460244:start:extract             : skeleton
+1636469169.605240834:end  :extract             : skeleton
+1636469169.615300026:start:patch               : skeleton
+1636469169.623225978:end  :patch               : skeleton
+1636469169.633671578:start:configure           : skeleton
+1636469169.642621081:end  :configure           : skeleton
+1636469169.653008197:start:build               : skeleton
+1636469169.654866247:end  :build               : skeleton
+1636469169.665212468:start:install-target      : skeleton
+1636469169.668620065:end  :install-target      : skeleton
+1636469169.708256829:start:download            : toolchain-external-custom
+1636469169.711437376:end  :download            : toolchain-external-custom
+1636469169.722379168:start:extract             : toolchain-external-custom
+1636469169.726588209:end  :extract             : toolchain-external-custom
+1636469169.737417751:start:patch               : toolchain-external-custom
+1636469169.745924026:end  :patch               : toolchain-external-custom
+1636469169.757553886:start:configure           : toolchain-external-custom
+1636469169.963518983:end  :configure           : toolchain-external-custom
+1636469169.973818500:start:build               : toolchain-external-custom
+1636469170.059475884:end  :build               : toolchain-external-custom
+1636469170.069671571:start:install-staging     : toolchain-external-custom
+1636469170.491411629:end  :install-staging     : toolchain-external-custom
+1636469170.502834851:start:install-target      : toolchain-external-custom
+1636469171.465360933:end  :install-target      : toolchain-external-custom
+1636469171.577609903:start:download            : toolchain-external
+1636469171.582313731:end  :download            : toolchain-external
+1636469171.598498735:start:extract             : toolchain-external
+1636469171.605425732:end  :extract             : toolchain-external
+1636469171.621445384:start:patch               : toolchain-external
+1636469171.635363879:end  :patch               : toolchain-external
+1636469171.653379239:start:configure           : toolchain-external
+1636469171.689398283:end  :configure           : toolchain-external
+1636469171.725535020:start:build               : toolchain-external
+1636469171.734207995:end  :build               : toolchain-external
+1636469171.768197646:start:install-target      : toolchain-external
+1636469171.779405581:end  :install-target      : toolchain-external
+1636469171.951885825:start:download            : toolchain
+1636469171.965634889:end  :download            : toolchain
+1636469172.002086736:start:extract             : toolchain
+1636469172.020167296:end  :extract             : toolchain
+1636469172.056381542:start:patch               : toolchain
+1636469172.092785801:end  :patch               : toolchain
+1636469172.129228830:start:configure           : toolchain
+1636469172.163775465:end  :configure           : toolchain
+1636469172.172969111:start:build               : toolchain
+1636469172.174800610:end  :build               : toolchain
+1636469172.184885811:start:install-staging     : toolchain
+1636469172.198614529:end  :install-staging     : toolchain
+1636469172.210581554:start:install-target      : toolchain
+1636469172.216635389:end  :install-target      : toolchain
+1636469172.300953661:start:download            : busybox
+1636469174.827940266:end  :download            : busybox
+1636469174.838317601:start:extract             : busybox
+1636469175.081663959:end  :extract             : busybox
+1636469175.091591427:start:patch               : busybox
+1636469175.108451339:end  :patch               : busybox
+1636469185.476237800:start:configure           : busybox
+1636469185.539151405:end  :configure           : busybox
+1636469185.566718823:start:build               : busybox
+1636469193.765940192:end  :build               : busybox
+1636469193.776105270:start:install-target      : busybox
+1636469196.596032546:end  :install-target      : busybox
+1636469196.668034629:start:download            : host-pkgconf
+1636469198.927202396:end  :download            : host-pkgconf
+1636469198.937091232:start:extract             : host-pkgconf
+1636469198.956872126:end  :extract             : host-pkgconf
+1636469198.966627514:start:patch               : host-pkgconf
+1636469198.989886338:end  :patch               : host-pkgconf
+1636469199.002804201:start:configure           : host-pkgconf
+1636469202.738717215:end  :configure           : host-pkgconf
+1636469202.748875226:start:build               : host-pkgconf
+1636469203.575485062:end  :build               : host-pkgconf
+1636469203.587533548:start:install-host        : host-pkgconf
+1636469203.671148016:end  :install-host        : host-pkgconf
+1636469203.763566045:start:download            : host-libzlib
+1636469205.118877846:end  :download            : host-libzlib
+1636469205.129074280:start:extract             : host-libzlib
+1636469205.157068333:end  :extract             : host-libzlib
+1636469205.167188181:start:patch               : host-libzlib
+1636469205.174681885:end  :patch               : host-libzlib
+1636469205.185276493:start:configure           : host-libzlib
+1636469205.495485909:end  :configure           : host-libzlib
+1636469205.509160995:start:build               : host-libzlib
+1636469208.777152659:end  :build               : host-libzlib
+1636469208.787146428:start:install-host        : host-libzlib
+1636469208.803287025:end  :install-host        : host-libzlib
+1636469208.903181526:start:download            : host-zlib
+1636469208.906437919:end  :download            : host-zlib
+1636469208.917899364:start:extract             : host-zlib
+1636469208.922414795:end  :extract             : host-zlib
+1636469208.933840763:start:patch               : host-zlib
+1636469208.943087675:end  :patch               : host-zlib
+1636469208.954830325:start:configure           : host-zlib
+1636469208.974630495:end  :configure           : host-zlib
+1636469208.988749301:start:build               : host-zlib
+1636469208.991666557:end  :build               : host-zlib
+1636469209.005764421:start:install-host        : host-zlib
+1636469209.010176738:end  :install-host        : host-zlib
+1636469209.359990208:start:download            : host-util-linux
+1636469210.208893119:end  :download            : host-util-linux
+1636469210.218904915:start:extract             : host-util-linux
+1636469210.498640800:end  :extract             : host-util-linux
+1636469210.508654451:start:patch               : host-util-linux
+1636469210.534723057:end  :patch               : host-util-linux
+1636469210.545734095:start:configure           : host-util-linux
+1636469223.115432332:end  :configure           : host-util-linux
+1636469223.125335628:start:build               : host-util-linux
+1636469228.437052029:end  :build               : host-util-linux
+1636469228.447574285:start:install-host        : host-util-linux
+1636469228.648318975:end  :install-host        : host-util-linux
+1636469230.033203743:start:download            : host-e2fsprogs
+1636469230.899173170:end  :download            : host-e2fsprogs
+1636469230.909216663:start:extract             : host-e2fsprogs
+1636469231.227910020:end  :extract             : host-e2fsprogs
+1636469231.237795414:start:patch               : host-e2fsprogs
+1636469231.267996263:end  :patch               : host-e2fsprogs
+1636469231.279083558:start:configure           : host-e2fsprogs
+1636469239.873009377:end  :configure           : host-e2fsprogs
+1636469239.883258828:start:build               : host-e2fsprogs
+1636469245.701817363:end  :build               : host-e2fsprogs
+1636469245.711960350:start:install-host        : host-e2fsprogs
+1636469247.430747459:end  :install-host        : host-e2fsprogs
+1636469249.267795101:start:download            : ifupdown-scripts
+1636469249.271470446:end  :download            : ifupdown-scripts
+1636469249.284396113:start:extract             : ifupdown-scripts
+1636469249.289812593:end  :extract             : ifupdown-scripts
+1636469249.302640340:start:patch               : ifupdown-scripts
+1636469249.313543491:end  :patch               : ifupdown-scripts
+1636469249.326498644:start:configure           : ifupdown-scripts
+1636469249.353322927:end  :configure           : ifupdown-scripts
+1636469249.377269710:start:build               : ifupdown-scripts
+1636469249.382916088:end  :build               : ifupdown-scripts
+1636469249.407727998:start:install-target      : ifupdown-scripts
+1636469249.440734410:end  :install-target      : ifupdown-scripts
+1636469249.665494542:start:download            : initscripts
+1636469249.679333213:end  :download            : initscripts
+1636469249.716792579:start:extract             : initscripts
+1636469249.734936739:end  :extract             : initscripts
+1636469249.771580489:start:patch               : initscripts
+1636469249.788858627:end  :patch               : initscripts
+1636469249.798086160:start:configure           : initscripts
+1636469249.812739810:end  :configure           : initscripts
+1636469249.821818555:start:build               : initscripts
+1636469249.823455801:end  :build               : initscripts
+1636469249.832510809:start:install-target      : initscripts
+1636469249.837350688:end  :install-target      : initscripts
+1636469249.881938478:start:download            : libzlib
+1636469249.893849239:end  :download            : libzlib
+1636469249.905467747:start:extract             : libzlib
+1636469249.940954503:end  :extract             : libzlib
+1636469249.950691183:start:patch               : libzlib
+1636469249.958053544:end  :patch               : libzlib
+1636469249.968510473:start:configure           : libzlib
+1636469250.424076103:end  :configure           : libzlib
+1636469250.438287045:start:build               : libzlib
+1636469253.733109807:end  :build               : libzlib
+1636469253.743171992:start:install-staging     : libzlib
+1636469253.763216220:end  :install-staging     : libzlib
+1636469253.773860735:start:install-target      : libzlib
+1636469253.796341624:end  :install-target      : libzlib
+1636469253.880905839:start:download            : zlib
+1636469253.884412587:end  :download            : zlib
+1636469253.897397041:start:extract             : zlib
+1636469253.902790634:end  :extract             : zlib
+1636469253.915949569:start:patch               : zlib
+1636469253.926894134:end  :patch               : zlib
+1636469253.941071260:start:configure           : zlib
+1636469253.970569215:end  :configure           : zlib
+1636469253.999770077:start:build               : zlib
+1636469254.006918148:end  :build               : zlib
+1636469254.038780148:start:install-target      : zlib
+1636469254.052054979:end  :install-target      : zlib
+1636469254.126967971:start:download            : libopenssl
+1636469255.515776901:end  :download            : libopenssl
+1636469255.525842130:start:extract             : libopenssl
+1636469255.694616094:end  :extract             : libopenssl
+1636469255.704694136:start:patch               : libopenssl
+1636469255.735453071:end  :patch               : libopenssl
+1636469255.748581653:start:configure           : libopenssl
+1636469256.281192673:end  :configure           : libopenssl
+1636469256.291157173:start:build               : libopenssl
+1636469265.554967456:end  :build               : libopenssl
+1636469265.565174628:start:install-staging     : libopenssl
+1636469265.943074476:end  :install-staging     : libopenssl
+1636469265.956638555:start:install-target      : libopenssl
+1636469266.390576176:end  :install-target      : libopenssl
+1636469267.240930170:start:download            : mmc-utils
+1636469269.552775966:end  :download            : mmc-utils
+1636469269.563721775:start:extract             : mmc-utils
+1636469269.569284805:end  :extract             : mmc-utils
+1636469269.579448961:start:patch               : mmc-utils
+1636469269.589940336:end  :patch               : mmc-utils
+1636469269.600708323:start:configure           : mmc-utils
+1636469269.617367907:end  :configure           : mmc-utils
+1636469269.628124687:start:build               : mmc-utils
+1636469269.989982476:end  :build               : mmc-utils
+1636469270.000112973:start:install-target      : mmc-utils
+1636469270.006798647:end  :install-target      : mmc-utils
+1636469270.070964672:start:download            : openssl
+1636469270.077808263:end  :download            : openssl
+1636469270.101656275:start:extract             : openssl
+1636469270.112543118:end  :extract             : openssl
+1636469270.136266294:start:patch               : openssl
+1636469270.159456450:end  :patch               : openssl
+1636469270.197437737:start:configure           : openssl
+1636469270.279077299:end  :configure           : openssl
+1636469270.316612883:start:build               : openssl
+1636469270.325455030:end  :build               : openssl
+1636469270.360206961:start:install-target      : openssl
+1636469270.371613364:end  :install-target      : openssl
+1636469270.556668499:start:download            : host-patchelf
+1636469271.838622451:end  :download            : host-patchelf
+1636469271.848859910:start:extract             : host-patchelf
+1636469271.868292825:end  :extract             : host-patchelf
+1636469271.878310443:start:patch               : host-patchelf
+1636469271.924406239:end  :patch               : host-patchelf
+1636469271.946497428:start:configure           : host-patchelf
+1636469273.293709584:end  :configure           : host-patchelf
+1636469273.303947087:start:build               : host-patchelf
+1636469275.385281722:end  :build               : host-patchelf
+1636469275.395651744:start:install-host        : host-patchelf
+1636469275.416239662:end  :install-host        : host-patchelf
+1636469277.200178862:start:download            : pcsc-lite
+1636469289.590388810:end  :download            : pcsc-lite
+1636469289.600922752:start:extract             : pcsc-lite
+1636469289.686974494:end  :extract             : pcsc-lite
+1636469289.696906341:start:patch               : pcsc-lite
+1636469289.713237039:end  :patch               : pcsc-lite
+1636469289.724142514:start:configure           : pcsc-lite
+1636469295.278740869:end  :configure           : pcsc-lite
+1636469295.289107191:start:build               : pcsc-lite
+1636469296.124285727:end  :build               : pcsc-lite
+1636469296.134995722:start:install-staging     : pcsc-lite
+1636469296.477090886:end  :install-staging     : pcsc-lite
+1636469296.519338730:start:install-target      : pcsc-lite
+1636469296.914656233:end  :install-target      : pcsc-lite
+1636469297.193028434:start:download            : strace
+1636469301.872861076:end  :download            : strace
+1636469301.883806136:start:extract             : strace
+1636469302.071289678:end  :extract             : strace
+1636469302.081452338:start:patch               : strace
+1636469302.121035305:end  :patch               : strace
+1636469302.132164333:start:configure           : strace
+1636469333.860583673:end  :configure           : strace
+1636469333.870849695:start:build               : strace
+1636469336.148584396:end  :build               : strace
+1636469336.159149644:start:install-target      : strace
+1636469336.314612191:end  :install-target      : strace
+1636469336.411987742:start:download            : urandom-scripts
+1636469336.415408215:end  :download            : urandom-scripts
+1636469336.427605580:start:extract             : urandom-scripts
+1636469336.432654125:end  :extract             : urandom-scripts
+1636469336.445598390:start:patch               : urandom-scripts
+1636469336.458391223:end  :patch               : urandom-scripts
+1636469336.478926538:start:configure           : urandom-scripts
+1636469336.545310632:end  :configure           : urandom-scripts
+1636469336.566108005:start:build               : urandom-scripts
+1636469336.570642479:end  :build               : urandom-scripts
+1636469336.591268192:start:install-target      : urandom-scripts
+1636469336.602549014:end  :install-target      : urandom-scripts
+1636469336.673789723:start:download            : opensc
+1636469338.667924052:end  :download            : opensc
+1636469338.677803443:start:extract             : opensc
+1636469338.714278122:end  :extract             : opensc
+1636469338.724167759:start:patch               : opensc
+1636469338.735354780:end  :patch               : opensc
+1636469338.746801830:start:configure           : opensc
+1636469351.360906409:end  :configure           : opensc
+1636469351.371065527:start:build               : opensc
+1636469360.253142335:end  :build               : opensc
+1636469360.263404540:start:install-target      : opensc
+1636469361.047280807:end  :install-target      : opensc
+1636469361.626604149:start:rsync               : optee_client_ext
+1636469361.666000848:end  :rsync               : optee_client_ext
+1636469361.728293896:start:configure           : optee_client_ext
+1636469362.301684562:end  :configure           : optee_client_ext
+1636469362.313238572:start:build               : optee_client_ext
+1636469362.849758283:end  :build               : optee_client_ext
+1636469362.860119523:start:install-staging     : optee_client_ext
+1636469362.880412801:end  :install-staging     : optee_client_ext
+1636469362.892065477:start:install-target      : optee_client_ext
+1636469362.909092986:end  :install-target      : optee_client_ext
+1636469362.982736902:start:download            : host-libopenssl
+1636469363.051834228:end  :download            : host-libopenssl
+1636469363.061759018:start:extract             : host-libopenssl
+1636469363.227156782:end  :extract             : host-libopenssl
+1636469363.236992246:start:patch               : host-libopenssl
+1636469363.267033302:end  :patch               : host-libopenssl
+1636469363.277957277:start:configure           : host-libopenssl
+1636469363.880430350:end  :configure           : host-libopenssl
+1636469363.890659519:start:build               : host-libopenssl
+1636469372.467462148:end  :build               : host-libopenssl
+1636469372.477742279:start:install-host        : host-libopenssl
+1636469372.892125894:end  :install-host        : host-libopenssl
+1636469374.190409483:start:download            : host-openssl
+1636469374.204268654:end  :download            : host-openssl
+1636469374.241101099:start:extract             : host-openssl
+1636469374.259255901:end  :extract             : host-openssl
+1636469374.295788361:start:patch               : host-openssl
+1636469374.313253558:end  :patch               : host-openssl
+1636469374.322338914:start:configure           : host-openssl
+1636469374.338545844:end  :configure           : host-openssl
+1636469374.347881859:start:build               : host-openssl
+1636469374.349607003:end  :build               : host-openssl
+1636469374.358911422:start:install-host        : host-openssl
+1636469374.361440012:end  :install-host        : host-openssl
+1636469376.148045595:start:download            : host-autoconf-archive
+1636469376.963107846:end  :download            : host-autoconf-archive
+1636469376.973289368:start:extract             : host-autoconf-archive
+1636469377.014507668:end  :extract             : host-autoconf-archive
+1636469377.024675911:start:patch               : host-autoconf-archive
+1636469377.039515273:end  :patch               : host-autoconf-archive
+1636469377.049763361:start:configure           : host-autoconf-archive
+1636469378.466132208:end  :configure           : host-autoconf-archive
+1636469378.476313851:start:build               : host-autoconf-archive
+1636469378.489286495:end  :build               : host-autoconf-archive
+1636469378.500458043:start:install-host        : host-autoconf-archive
+1636469378.573258264:end  :install-host        : host-autoconf-archive
+1636469380.246302371:start:download            : host-expat
+1636469381.585169941:end  :download            : host-expat
+1636469381.595458096:start:extract             : host-expat
+1636469381.622294805:end  :extract             : host-expat
+1636469381.632549469:start:patch               : host-expat
+1636469381.649245230:end  :patch               : host-expat
+1636469381.660844486:start:configure           : host-expat
+1636469387.131325187:end  :configure           : host-expat
+1636469387.141454351:start:build               : host-expat
+1636469388.888899946:end  :build               : host-expat
+1636469388.899141367:start:install-host        : host-expat
+1636469389.004553311:end  :install-host        : host-expat
+1636469390.663608652:start:download            : host-libffi
+1636469391.347467903:end  :download            : host-libffi
+1636469391.357564074:start:extract             : host-libffi
+1636469391.383954725:end  :extract             : host-libffi
+1636469391.393768948:start:patch               : host-libffi
+1636469391.415178524:end  :patch               : host-libffi
+1636469391.429538790:start:configure           : host-libffi
+1636469400.234044187:end  :configure           : host-libffi
+1636469400.244036392:start:build               : host-libffi
+1636469400.709811054:end  :build               : host-libffi
+1636469400.720223069:start:install-host        : host-libffi
+1636469400.853343472:end  :install-host        : host-libffi
+1636469402.142143745:start:download            : host-python3
+1636469404.972979558:end  :download            : host-python3
+1636469404.983523228:start:extract             : host-python3
+1636469405.825031986:end  :extract             : host-python3
+1636469405.835175197:start:patch               : host-python3
+1636469405.999174299:end  :patch               : host-python3
+1636469406.012326727:start:configure           : host-python3
+1636469430.167583870:end  :configure           : host-python3
+1636469430.178446846:start:build               : host-python3
+1636469445.186973591:end  :build               : host-python3
+1636469445.196758510:start:install-host        : host-python3
+1636469447.591829613:end  :install-host        : host-python3
+1636469447.972801878:start:download            : host-python3-setuptools
+1636469448.116210810:end  :download            : host-python3-setuptools
+1636469448.126440274:start:extract             : host-python3-setuptools
+1636469448.151397593:end  :extract             : host-python3-setuptools
+1636469448.161216777:start:patch               : host-python3-setuptools
+1636469448.171414894:end  :patch               : host-python3-setuptools
+1636469448.181902534:start:configure           : host-python3-setuptools
+1636469448.204874743:end  :configure           : host-python3-setuptools
+1636469448.215444539:start:build               : host-python3-setuptools
+1636469448.405039700:end  :build               : host-python3-setuptools
+1636469448.416056681:start:install-host        : host-python3-setuptools
+1636469448.725798178:end  :install-host        : host-python3-setuptools
+1636469450.429139867:start:download            : host-python3-pycparser
+1636469450.500766280:end  :download            : host-python3-pycparser
+1636469450.510932613:start:extract             : host-python3-pycparser
+1636469450.520991917:end  :extract             : host-python3-pycparser
+1636469450.531014383:start:patch               : host-python3-pycparser
+1636469450.538804104:end  :patch               : host-python3-pycparser
+1636469450.549657866:start:configure           : host-python3-pycparser
+1636469450.588961617:end  :configure           : host-python3-pycparser
+1636469450.608403604:start:build               : host-python3-pycparser
+1636469450.758077124:end  :build               : host-python3-pycparser
+1636469450.768819753:start:install-host        : host-python3-pycparser
+1636469451.030115541:end  :install-host        : host-python3-pycparser
+1636469452.803846475:start:download            : host-python3-cffi
+1636469452.910337675:end  :download            : host-python3-cffi
+1636469452.920453913:start:extract             : host-python3-cffi
+1636469452.935190987:end  :extract             : host-python3-cffi
+1636469452.945288964:start:patch               : host-python3-cffi
+1636469452.953495352:end  :patch               : host-python3-cffi
+1636469452.964378197:start:configure           : host-python3-cffi
+1636469452.988672593:end  :configure           : host-python3-cffi
+1636469452.999258183:start:build               : host-python3-cffi
+1636469455.024144869:end  :build               : host-python3-cffi
+1636469455.034933878:start:install-host        : host-python3-cffi
+1636469455.232158858:end  :install-host        : host-python3-cffi
+1636469456.147728204:start:download            : host-python3-pip
+1636469456.325559633:end  :download            : host-python3-pip
+1636469456.335654624:start:extract             : host-python3-pip
+1636469456.363706738:end  :extract             : host-python3-pip
+1636469456.373692153:start:patch               : host-python3-pip
+1636469456.381649280:end  :patch               : host-python3-pip
+1636469456.391522686:start:configure           : host-python3-pip
+1636469456.414671609:end  :configure           : host-python3-pip
+1636469456.425259733:start:build               : host-python3-pip
+1636469456.579489775:end  :build               : host-python3-pip
+1636469456.590157052:start:install-host        : host-python3-pip
+1636469457.236947691:end  :install-host        : host-python3-pip
+1636469458.796765750:start:download            : host-python3-six
+1636469458.874324056:end  :download            : host-python3-six
+1636469458.884545291:start:extract             : host-python3-six
+1636469458.890958473:end  :extract             : host-python3-six
+1636469458.901752605:start:patch               : host-python3-six
+1636469458.910326495:end  :patch               : host-python3-six
+1636469458.922263382:start:configure           : host-python3-six
+1636469458.949358114:end  :configure           : host-python3-six
+1636469458.959668809:start:build               : host-python3-six
+1636469459.075741878:end  :build               : host-python3-six
+1636469459.086487144:start:install-host        : host-python3-six
+1636469459.219991560:end  :install-host        : host-python3-six
+1636469459.649028471:start:download            : host-python3-cryptography
+1636469459.773661823:end  :download            : host-python3-cryptography
+1636469459.783670097:start:extract             : host-python3-cryptography
+1636469459.801435665:end  :extract             : host-python3-cryptography
+1636469459.811541371:start:patch               : host-python3-cryptography
+1636469459.820096731:end  :patch               : host-python3-cryptography
+1636469459.831083291:start:configure           : host-python3-cryptography
+1636469459.860099292:end  :configure           : host-python3-cryptography
+1636469459.870861970:start:build               : host-python3-cryptography
+1636469469.611599985:end  :build               : host-python3-cryptography
+1636469469.622546962:start:install-host        : host-python3-cryptography
+1636469470.226253187:end  :install-host        : host-python3-cryptography
+1636469471.184792865:start:download            : host-python3-pycryptodomex
+1636469472.650611219:end  :download            : host-python3-pycryptodomex
+1636469472.660666647:start:extract             : host-python3-pycryptodomex
+1636469472.861354000:end  :extract             : host-python3-pycryptodomex
+1636469472.871191910:start:patch               : host-python3-pycryptodomex
+1636469472.879782700:end  :patch               : host-python3-pycryptodomex
+1636469472.889276844:start:configure           : host-python3-pycryptodomex
+1636469472.912646517:end  :configure           : host-python3-pycryptodomex
+1636469472.923118123:start:build               : host-python3-pycryptodomex
+1636469478.699798341:end  :build               : host-python3-pycryptodomex
+1636469478.711091031:start:install-host        : host-python3-pycryptodomex
+1636469479.353172495:end  :install-host        : host-python3-pycryptodomex
+1636469480.894473993:start:rsync               : optee_examples_ext
+1636469480.904101427:end  :rsync               : optee_examples_ext
+1636469480.924716846:start:configure           : optee_examples_ext
+1636469481.142829017:end  :configure           : optee_examples_ext
+1636469481.162107054:start:build               : optee_examples_ext
+1636469482.696856595:end  :build               : optee_examples_ext
+1636469482.706894681:start:install-staging     : optee_examples_ext
+1636469482.726289562:end  :install-staging     : optee_examples_ext
+1636469482.736820886:start:install-target      : optee_examples_ext
+1636469482.758568225:end  :install-target      : optee_examples_ext
+1636469482.837183613:start:rsync               : optee_os_ext
+1636469482.842866103:end  :rsync               : optee_os_ext
+1636469482.861480986:start:configure           : optee_os_ext
+1636469483.267481330:end  :configure           : optee_os_ext
+1636469483.277338824:start:build               : optee_os_ext
+1636469483.296085769:end  :build               : optee_os_ext
+1636469483.307824274:start:install-target      : optee_os_ext
+1636469483.335336466:end  :install-target      : optee_os_ext
+1636469483.517966415:start:rsync               : optee_test_ext
+1636469483.575471962:end  :rsync               : optee_test_ext
+1636469483.591941429:start:configure           : optee_test_ext
+1636469484.136923716:end  :configure           : optee_test_ext
+1636469484.194534711:start:build               : optee_test_ext
+1636469489.851111518:end  :build               : optee_test_ext
+1636469489.861031496:start:install-staging     : optee_test_ext
+1636469489.879283129:end  :install-staging     : optee_test_ext
+1636469489.890668419:start:install-target      : optee_test_ext
+1636469489.934790328:end  :install-target      : optee_test_ext
+1636469637.362201202:start:rsync               : optee_client_ext
+1636469637.367271679:end  :rsync               : optee_client_ext
+1636469637.383444427:start:configure           : optee_client_ext
+1636469637.796359109:end  :configure           : optee_client_ext
+1636469637.808953168:start:build               : optee_client_ext
+1636469637.884579778:end  :build               : optee_client_ext
+1636469637.894787853:start:install-staging     : optee_client_ext
+1636469637.916101805:end  :install-staging     : optee_client_ext
+1636469637.928864789:start:install-target      : optee_client_ext
+1636469637.954040073:end  :install-target      : optee_client_ext
+1636469638.111044053:start:rsync               : optee_examples_ext
+1636469638.116508612:end  :rsync               : optee_examples_ext
+1636469638.133331014:start:configure           : optee_examples_ext
+1636469638.319715489:end  :configure           : optee_examples_ext
+1636469638.340608386:start:build               : optee_examples_ext
+1636469638.443347927:end  :build               : optee_examples_ext
+1636469638.481023636:start:install-staging     : optee_examples_ext
+1636469638.557289374:end  :install-staging     : optee_examples_ext
+1636469638.583005264:start:install-target      : optee_examples_ext
+1636469638.654618273:end  :install-target      : optee_examples_ext
+1636469638.829775413:start:rsync               : optee_os_ext
+1636469638.837759383:end  :rsync               : optee_os_ext
+1636469638.870354957:start:configure           : optee_os_ext
+1636469639.266762924:end  :configure           : optee_os_ext
+1636469639.276739110:start:build               : optee_os_ext
+1636469639.296124654:end  :build               : optee_os_ext
+1636469639.307568295:start:install-target      : optee_os_ext
+1636469639.328560079:end  :install-target      : optee_os_ext
+1636469639.406842109:start:rsync               : optee_test_ext
+1636469639.413400659:end  :rsync               : optee_test_ext
+1636469639.430982603:start:configure           : optee_test_ext
+1636469639.985477968:end  :configure           : optee_test_ext
+1636469640.024532934:start:build               : optee_test_ext
+1636469640.636749534:end  :build               : optee_test_ext
+1636469640.674638066:start:install-staging     : optee_test_ext
+1636469640.756763308:end  :install-staging     : optee_test_ext
+1636469640.802518263:start:install-target      : optee_test_ext
+1636469640.861098203:end  :install-target      : optee_test_ext
+1636469872.228365017:start:rsync               : optee_client_ext
+1636469872.233805101:end  :rsync               : optee_client_ext
+1636469872.250119500:start:configure           : optee_client_ext
+1636469872.632941988:end  :configure           : optee_client_ext
+1636469872.644908268:start:build               : optee_client_ext
+1636469872.691793273:end  :build               : optee_client_ext
+1636469872.703895029:start:install-staging     : optee_client_ext
+1636469872.729010819:end  :install-staging     : optee_client_ext
+1636469872.743356326:start:install-target      : optee_client_ext
+1636469872.764147116:end  :install-target      : optee_client_ext
+1636469872.834478925:start:rsync               : optee_examples_ext
+1636469872.840853248:end  :rsync               : optee_examples_ext
+1636469872.861723036:start:configure           : optee_examples_ext
+1636469873.056495790:end  :configure           : optee_examples_ext
+1636469873.076182057:start:build               : optee_examples_ext
+1636469873.165523785:end  :build               : optee_examples_ext
+1636469873.184650446:start:install-staging     : optee_examples_ext
+1636469873.243874195:end  :install-staging     : optee_examples_ext
+1636469873.278675011:start:install-target      : optee_examples_ext
+1636469873.350391027:end  :install-target      : optee_examples_ext
+1636469873.509643172:start:rsync               : optee_os_ext
+1636469873.514854213:end  :rsync               : optee_os_ext
+1636469873.531713824:start:configure           : optee_os_ext
+1636469873.883444327:end  :configure           : optee_os_ext
+1636469873.893391612:start:build               : optee_os_ext
+1636469873.911477320:end  :build               : optee_os_ext
+1636469873.922358261:start:install-target      : optee_os_ext
+1636469873.944491227:end  :install-target      : optee_os_ext
+1636469874.070849866:start:rsync               : optee_test_ext
+1636469874.077873578:end  :rsync               : optee_test_ext
+1636469874.097379995:start:configure           : optee_test_ext
+1636469874.764916209:end  :configure           : optee_test_ext
+1636469874.890244819:start:build               : optee_test_ext
+1636469875.680494294:end  :build               : optee_test_ext
+1636469875.718369691:start:install-staging     : optee_test_ext
+1636469875.798449749:end  :install-staging     : optee_test_ext
+1636469875.832297277:start:install-target      : optee_test_ext
+1636469876.040916963:end  :install-target      : optee_test_ext
+1636469940.351635282:start:rsync               : optee_client_ext
+1636469940.487062905:end  :rsync               : optee_client_ext
+1636469940.647269994:start:configure           : optee_client_ext
+1636469942.879121941:end  :configure           : optee_client_ext
+1636469942.983159807:start:build               : optee_client_ext
+1636469943.459206106:end  :build               : optee_client_ext
+1636469943.555208254:start:install-staging     : optee_client_ext
+1636469943.907798897:end  :install-staging     : optee_client_ext
+1636469944.047177658:start:install-target      : optee_client_ext
+1636469944.205335049:end  :install-target      : optee_client_ext
+1636469945.119277013:start:rsync               : optee_examples_ext
+1636469945.229519441:end  :rsync               : optee_examples_ext
+1636469945.423423957:start:configure           : optee_examples_ext
+1636469946.611221546:end  :configure           : optee_examples_ext
+1636469946.943627868:start:build               : optee_examples_ext
+1636469948.763134001:end  :build               : optee_examples_ext
+1636469948.826045517:start:install-staging     : optee_examples_ext
+1636469949.209800298:end  :install-staging     : optee_examples_ext
+1636469949.315966465:start:install-target      : optee_examples_ext
+1636469949.791023760:end  :install-target      : optee_examples_ext
+1636469950.682716240:start:rsync               : optee_os_ext
+1636469950.779211012:end  :rsync               : optee_os_ext
+1636469950.913809781:start:configure           : optee_os_ext
+1636469952.883033143:end  :configure           : optee_os_ext
+1636469952.959587295:start:build               : optee_os_ext
+1636469953.108285393:end  :build               : optee_os_ext
+1636469953.222990868:start:install-target      : optee_os_ext
+1636469953.418162609:end  :install-target      : optee_os_ext
+1636469954.054788975:start:rsync               : optee_test_ext
+1636469954.175186129:end  :rsync               : optee_test_ext
+1636469954.365103086:start:configure           : optee_test_ext
+1636469957.352011740:end  :configure           : optee_test_ext
+1636469958.094804620:start:build               : optee_test_ext
+1636469961.183150307:end  :build               : optee_test_ext
+1636469961.279126039:start:install-staging     : optee_test_ext
+1636469961.567141609:end  :install-staging     : optee_test_ext
+1636469961.692975911:start:install-target      : optee_test_ext
+1636469962.474199953:end  :install-target      : optee_test_ext
+1636470112.522087227:start:rsync               : optee_client_ext
+1636470112.527302151:end  :rsync               : optee_client_ext
+1636470112.543625954:start:configure           : optee_client_ext
+1636470112.957835893:end  :configure           : optee_client_ext
+1636470112.974287224:start:build               : optee_client_ext
+1636470113.038920981:end  :build               : optee_client_ext
+1636470113.051538998:start:install-staging     : optee_client_ext
+1636470113.079276658:end  :install-staging     : optee_client_ext
+1636470113.094569156:start:install-target      : optee_client_ext
+1636470113.117710554:end  :install-target      : optee_client_ext
+1636470113.188668243:start:rsync               : optee_examples_ext
+1636470113.194954508:end  :rsync               : optee_examples_ext
+1636470113.215959557:start:configure           : optee_examples_ext
+1636470113.438392567:end  :configure           : optee_examples_ext
+1636470113.459663349:start:build               : optee_examples_ext
+1636470113.552172917:end  :build               : optee_examples_ext
+1636470113.571164735:start:install-staging     : optee_examples_ext
+1636470113.634366636:end  :install-staging     : optee_examples_ext
+1636470113.664115748:start:install-target      : optee_examples_ext
+1636470113.742182402:end  :install-target      : optee_examples_ext
+1636470113.870844298:start:rsync               : optee_os_ext
+1636470113.876129653:end  :rsync               : optee_os_ext
+1636470113.894226117:start:configure           : optee_os_ext
+1636470114.313928955:end  :configure           : optee_os_ext
+1636470114.324322724:start:build               : optee_os_ext
+1636470114.341743263:end  :build               : optee_os_ext
+1636470114.352058711:start:install-target      : optee_os_ext
+1636470114.366824020:end  :install-target      : optee_os_ext
+1636470114.422705995:start:rsync               : optee_test_ext
+1636470114.429478575:end  :rsync               : optee_test_ext
+1636470114.447638686:start:configure           : optee_test_ext
+1636470115.063501637:end  :configure           : optee_test_ext
+1636470115.100896184:start:build               : optee_test_ext
+1636470115.768621531:end  :build               : optee_test_ext
+1636470115.802843824:start:install-staging     : optee_test_ext
+1636470115.841899474:end  :install-staging     : optee_test_ext
+1636470115.858799520:start:install-target      : optee_test_ext
+1636470115.920900263:end  :install-target      : optee_test_ext
+1636472309.209961684:start:rsync               : optee_client_ext
+1636472309.215269881:end  :rsync               : optee_client_ext
+1636472309.233121070:start:configure           : optee_client_ext
+1636472309.600217155:end  :configure           : optee_client_ext
+1636472309.614205841:start:build               : optee_client_ext
+1636472309.673273307:end  :build               : optee_client_ext
+1636472309.685900057:start:install-staging     : optee_client_ext
+1636472309.715395727:end  :install-staging     : optee_client_ext
+1636472309.732392129:start:install-target      : optee_client_ext
+1636472309.755608909:end  :install-target      : optee_client_ext
+1636472309.828258154:start:rsync               : optee_examples_ext
+1636472309.834366747:end  :rsync               : optee_examples_ext
+1636472309.855963592:start:configure           : optee_examples_ext
+1636472310.052734158:end  :configure           : optee_examples_ext
+1636472310.073608436:start:build               : optee_examples_ext
+1636472310.158628389:end  :build               : optee_examples_ext
+1636472310.170020667:start:install-staging     : optee_examples_ext
+1636472310.197315355:end  :install-staging     : optee_examples_ext
+1636472310.212281398:start:install-target      : optee_examples_ext
+1636472310.243811897:end  :install-target      : optee_examples_ext
+1636472310.316034353:start:rsync               : optee_os_ext
+1636472310.321072617:end  :rsync               : optee_os_ext
+1636472310.339200903:start:configure           : optee_os_ext
+1636472310.708139724:end  :configure           : optee_os_ext
+1636472310.718812031:start:build               : optee_os_ext
+1636472310.737533835:end  :build               : optee_os_ext
+1636472310.748122191:start:install-target      : optee_os_ext
+1636472310.764604438:end  :install-target      : optee_os_ext
+1636472310.823205783:start:rsync               : optee_test_ext
+1636472310.829899158:end  :rsync               : optee_test_ext
+1636472310.848583686:start:configure           : optee_test_ext
+1636472311.282053299:end  :configure           : optee_test_ext
+1636472311.321578710:start:build               : optee_test_ext
+1636472311.661976644:end  :build               : optee_test_ext
+1636472311.680870450:start:install-staging     : optee_test_ext
+1636472311.706958955:end  :install-staging     : optee_test_ext
+1636472311.721484565:start:install-target      : optee_test_ext
+1636472311.768992926:end  :install-target      : optee_test_ext
+1636474523.483743706:start:rsync               : optee_client_ext
+1636474523.489089797:end  :rsync               : optee_client_ext
+1636474523.505035423:start:configure           : optee_client_ext
+1636474523.918367338:end  :configure           : optee_client_ext
+1636474523.928541495:start:build               : optee_client_ext
+1636474523.974771684:end  :build               : optee_client_ext
+1636474523.987886535:start:install-staging     : optee_client_ext
+1636474524.020351336:end  :install-staging     : optee_client_ext
+1636474524.042066530:start:install-target      : optee_client_ext
+1636474524.085890450:end  :install-target      : optee_client_ext
+1636474524.252536085:start:rsync               : optee_examples_ext
+1636474524.268684844:end  :rsync               : optee_examples_ext
+1636474524.330362783:start:configure           : optee_examples_ext
+1636474524.539431974:end  :configure           : optee_examples_ext
+1636474524.560524559:start:build               : optee_examples_ext
+1636474524.645033754:end  :build               : optee_examples_ext
+1636474524.661709246:start:install-staging     : optee_examples_ext
+1636474524.720177897:end  :install-staging     : optee_examples_ext
+1636474524.738072619:start:install-target      : optee_examples_ext
+1636474524.789357961:end  :install-target      : optee_examples_ext
+1636474524.951534372:start:rsync               : optee_os_ext
+1636474524.959919215:end  :rsync               : optee_os_ext
+1636474524.993381925:start:configure           : optee_os_ext
+1636474539.294452060:start:rsync               : optee_client_ext
+1636474539.299565570:end  :rsync               : optee_client_ext
+1636474539.317923665:start:configure           : optee_client_ext
+1636474539.740976296:end  :configure           : optee_client_ext
+1636474539.757268952:start:build               : optee_client_ext
+1636474539.842072794:end  :build               : optee_client_ext
+1636474539.861800303:start:install-staging     : optee_client_ext
+1636474539.906868556:end  :install-staging     : optee_client_ext
+1636474539.928329719:start:install-target      : optee_client_ext
+1636474539.957093462:end  :install-target      : optee_client_ext
+1636474540.028195618:start:rsync               : optee_examples_ext
+1636474540.033833308:end  :rsync               : optee_examples_ext
+1636474540.052900025:start:configure           : optee_examples_ext
+1636474540.282261430:end  :configure           : optee_examples_ext
+1636474540.303255163:start:build               : optee_examples_ext
+1636474540.394165416:end  :build               : optee_examples_ext
+1636474540.412434488:start:install-staging     : optee_examples_ext
+1636474540.459551830:end  :install-staging     : optee_examples_ext
+1636474540.481738635:start:install-target      : optee_examples_ext
+1636474540.534659077:end  :install-target      : optee_examples_ext
+1636474540.634754231:start:rsync               : optee_os_ext
+1636474540.639545481:end  :rsync               : optee_os_ext
+1636474540.657594595:start:configure           : optee_os_ext
+1636474541.056294763:end  :configure           : optee_os_ext
+1636474541.067634253:start:build               : optee_os_ext
+1636474541.086060790:end  :build               : optee_os_ext
+1636474541.096821464:start:install-target      : optee_os_ext
+1636474541.112257438:end  :install-target      : optee_os_ext
+1636474541.170543394:start:rsync               : optee_test_ext
+1636474541.177542986:end  :rsync               : optee_test_ext
+1636474541.196017112:start:configure           : optee_test_ext
+1636474541.806820161:end  :configure           : optee_test_ext
+1636474541.845349765:start:build               : optee_test_ext
+1636474542.127171251:end  :build               : optee_test_ext
+1636474542.162329997:start:install-staging     : optee_test_ext
+1636474542.216564259:end  :install-staging     : optee_test_ext
+1636474542.241513269:start:install-target      : optee_test_ext
+1636474542.313600304:end  :install-target      : optee_test_ext
+1636475814.942041196:start:rsync               : optee_client_ext
+1636475814.947183650:end  :rsync               : optee_client_ext
+1636475814.963537131:start:configure           : optee_client_ext
+1636475815.459591488:end  :configure           : optee_client_ext
+1636475815.475783732:start:build               : optee_client_ext
+1636475815.541597979:end  :build               : optee_client_ext
+1636475815.552558819:start:install-staging     : optee_client_ext
+1636475815.572585207:end  :install-staging     : optee_client_ext
+1636475815.583766526:start:install-target      : optee_client_ext
+1636475815.599036195:end  :install-target      : optee_client_ext
+1636475815.671582775:start:rsync               : optee_examples_ext
+1636475815.677398636:end  :rsync               : optee_examples_ext
+1636475815.695287551:start:configure           : optee_examples_ext
+1636475815.900217866:end  :configure           : optee_examples_ext
+1636475815.921214139:start:build               : optee_examples_ext
+1636475816.007100195:end  :build               : optee_examples_ext
+1636475816.021589720:start:install-staging     : optee_examples_ext
+1636475816.059043086:end  :install-staging     : optee_examples_ext
+1636475816.076842317:start:install-target      : optee_examples_ext
+1636475816.121227548:end  :install-target      : optee_examples_ext
+1636475816.240467463:start:rsync               : optee_os_ext
+1636475816.245684618:end  :rsync               : optee_os_ext
+1636475816.262467012:start:configure           : optee_os_ext
+1636475816.634040026:end  :configure           : optee_os_ext
+1636475816.644335611:start:build               : optee_os_ext
+1636475816.661896074:end  :build               : optee_os_ext
+1636475816.672540449:start:install-target      : optee_os_ext
+1636475816.687776053:end  :install-target      : optee_os_ext
+1636475816.743691631:start:rsync               : optee_test_ext
+1636475816.750538607:end  :rsync               : optee_test_ext
+1636475816.769016328:start:configure           : optee_test_ext
+1636475817.194842148:end  :configure           : optee_test_ext
+1636475817.236139827:start:build               : optee_test_ext
+1636475817.436858548:end  :build               : optee_test_ext
+1636475817.447608878:start:install-staging     : optee_test_ext
+1636475817.466720746:end  :install-staging     : optee_test_ext
+1636475817.482560212:start:install-target      : optee_test_ext
+1636475817.525252534:end  :install-target      : optee_test_ext
+1636475841.742097480:start:rsync               : optee_client_ext
+1636475841.747211002:end  :rsync               : optee_client_ext
+1636475841.763676093:start:configure           : optee_client_ext
+1636475842.127460545:end  :configure           : optee_client_ext
+1636475842.141823146:start:build               : optee_client_ext
+1636475842.218187044:end  :build               : optee_client_ext
+1636475842.236050299:start:install-staging     : optee_client_ext
+1636475842.276891538:end  :install-staging     : optee_client_ext
+1636475842.296260072:start:install-target      : optee_client_ext
+1636475842.321435570:end  :install-target      : optee_client_ext
+1636475842.393720115:start:rsync               : optee_examples_ext
+1636475842.400057512:end  :rsync               : optee_examples_ext
+1636475842.421447891:start:configure           : optee_examples_ext
+1636475842.609767555:end  :configure           : optee_examples_ext
+1636475842.631530104:start:build               : optee_examples_ext
+1636475842.735202050:end  :build               : optee_examples_ext
+1636475842.752121933:start:install-staging     : optee_examples_ext
+1636475842.790223699:end  :install-staging     : optee_examples_ext
+1636475842.808190699:start:install-target      : optee_examples_ext
+1636475842.852594085:end  :install-target      : optee_examples_ext
+1636475842.935962546:start:rsync               : optee_os_ext
+1636475842.940983000:end  :rsync               : optee_os_ext
+1636475842.958749560:start:configure           : optee_os_ext
+1636475843.327289195:end  :configure           : optee_os_ext
+1636475843.337394614:start:build               : optee_os_ext
+1636475843.356384191:end  :build               : optee_os_ext
+1636475843.366647678:start:install-target      : optee_os_ext
+1636475843.383192681:end  :install-target      : optee_os_ext
+1636475843.440297523:start:rsync               : optee_test_ext
+1636475843.446844962:end  :rsync               : optee_test_ext
+1636475843.463977579:start:configure           : optee_test_ext
+1636475843.959961296:end  :configure           : optee_test_ext
+1636475843.998579228:start:build               : optee_test_ext
+1636475844.403549430:end  :build               : optee_test_ext
+1636475844.430965105:start:install-staging     : optee_test_ext
+1636475844.461917120:end  :install-staging     : optee_test_ext
+1636475844.476746899:start:install-target      : optee_test_ext
+1636475844.530850814:end  :install-target      : optee_test_ext
+1636475855.874818947:start:rsync               : optee_client_ext
+1636475855.880174431:end  :rsync               : optee_client_ext
+1636475855.897556480:start:configure           : optee_client_ext
+1636475856.321836564:end  :configure           : optee_client_ext
+1636475856.337395526:start:build               : optee_client_ext
+1636475856.426940001:end  :build               : optee_client_ext
+1636475856.446324141:start:install-staging     : optee_client_ext
+1636475856.483201597:end  :install-staging     : optee_client_ext
+1636475856.501699185:start:install-target      : optee_client_ext
+1636475856.528089401:end  :install-target      : optee_client_ext
+1636475856.599971667:start:rsync               : optee_examples_ext
+1636475856.606414195:end  :rsync               : optee_examples_ext
+1636475856.628084591:start:configure           : optee_examples_ext
+1636475856.848865985:end  :configure           : optee_examples_ext
+1636475856.870974264:start:build               : optee_examples_ext
+1636475856.954522206:end  :build               : optee_examples_ext
+1636475856.968177428:start:install-staging     : optee_examples_ext
+1636475857.000198829:end  :install-staging     : optee_examples_ext
+1636475857.016835461:start:install-target      : optee_examples_ext
+1636475857.063739454:end  :install-target      : optee_examples_ext
+1636475857.147762545:start:rsync               : optee_os_ext
+1636475857.153817250:end  :rsync               : optee_os_ext
+1636475857.177333440:start:configure           : optee_os_ext
+1636475857.582249502:end  :configure           : optee_os_ext
+1636475857.592337725:start:build               : optee_os_ext
+1636475857.612641417:end  :build               : optee_os_ext
+1636475857.624680803:start:install-target      : optee_os_ext
+1636475857.645262351:end  :install-target      : optee_os_ext
+1636475857.706994536:start:rsync               : optee_test_ext
+1636475857.714350122:end  :rsync               : optee_test_ext
+1636475857.734135073:start:configure           : optee_test_ext
+1636475858.227397838:end  :configure           : optee_test_ext
+1636475858.267015181:start:build               : optee_test_ext
+1636475858.613874121:end  :build               : optee_test_ext
+1636475858.634462303:start:install-staging     : optee_test_ext
+1636475858.679756957:end  :install-staging     : optee_test_ext
+1636475858.704005191:start:install-target      : optee_test_ext
+1636475858.787169691:end  :install-target      : optee_test_ext
+1636476085.223950715:start:rsync               : optee_client_ext
+1636476085.229153407:end  :rsync               : optee_client_ext
+1636476085.246334218:start:configure           : optee_client_ext
+1636476085.600711495:end  :configure           : optee_client_ext
+1636476085.615650204:start:build               : optee_client_ext
+1636476085.686954356:end  :build               : optee_client_ext
+1636476085.697394863:start:install-staging     : optee_client_ext
+1636476085.716617733:end  :install-staging     : optee_client_ext
+1636476085.727582280:start:install-target      : optee_client_ext
+1636476085.742098673:end  :install-target      : optee_client_ext
+1636476085.815442319:start:rsync               : optee_examples_ext
+1636476085.822008531:end  :rsync               : optee_examples_ext
+1636476085.841385391:start:configure           : optee_examples_ext
+1636476086.034217969:end  :configure           : optee_examples_ext
+1636476086.054183473:start:build               : optee_examples_ext
+1636476086.144883101:end  :build               : optee_examples_ext
+1636476086.160176157:start:install-staging     : optee_examples_ext
+1636476086.202311857:end  :install-staging     : optee_examples_ext
+1636476086.222488240:start:install-target      : optee_examples_ext
+1636476086.273418859:end  :install-target      : optee_examples_ext
+1636476086.378658300:start:rsync               : optee_os_ext
+1636476086.383851215:end  :rsync               : optee_os_ext
+1636476086.402755926:start:configure           : optee_os_ext
+1636476086.776350853:end  :configure           : optee_os_ext
+1636476086.787291607:start:build               : optee_os_ext
+1636476086.805046140:end  :build               : optee_os_ext
+1636476086.815694963:start:install-target      : optee_os_ext
+1636476086.831624856:end  :install-target      : optee_os_ext
+1636476086.889438662:start:rsync               : optee_test_ext
+1636476086.896217783:end  :rsync               : optee_test_ext
+1636476086.913734748:start:configure           : optee_test_ext
+1636476087.439778482:end  :configure           : optee_test_ext
+1636476087.479495916:start:build               : optee_test_ext
+1636476087.827841704:end  :build               : optee_test_ext
+1636476087.850768795:start:install-staging     : optee_test_ext
+1636476087.901533335:end  :install-staging     : optee_test_ext
+1636476087.928712144:start:install-target      : optee_test_ext
+1636476087.976244477:end  :install-target      : optee_test_ext
+1636479499.431160163:start:rsync               : optee_client_ext
+1636479499.441519623:end  :rsync               : optee_client_ext
+1636479499.459052364:start:configure           : optee_client_ext
+1636479499.827023937:end  :configure           : optee_client_ext
+1636479499.841908023:start:build               : optee_client_ext
+1636479499.904711676:end  :build               : optee_client_ext
+1636479499.918739701:start:install-staging     : optee_client_ext
+1636479499.948508182:end  :install-staging     : optee_client_ext
+1636479499.963261911:start:install-target      : optee_client_ext
+1636479499.980798842:end  :install-target      : optee_client_ext
+1636479500.052891467:start:rsync               : optee_examples_ext
+1636479500.059232949:end  :rsync               : optee_examples_ext
+1636479500.080623052:start:configure           : optee_examples_ext
+1636479500.275719585:end  :configure           : optee_examples_ext
+1636479500.296943377:start:build               : optee_examples_ext
+1636479500.379692526:end  :build               : optee_examples_ext
+1636479500.391812587:start:install-staging     : optee_examples_ext
+1636479500.420382072:end  :install-staging     : optee_examples_ext
+1636479500.435402414:start:install-target      : optee_examples_ext
+1636479500.468426051:end  :install-target      : optee_examples_ext
+1636479500.543578893:start:rsync               : optee_os_ext
+1636479500.549281940:end  :rsync               : optee_os_ext
+1636479500.570381294:start:configure           : optee_os_ext
+1636479500.958254607:end  :configure           : optee_os_ext
+1636479500.969462133:start:build               : optee_os_ext
+1636479500.988532712:end  :build               : optee_os_ext
+1636479500.999206358:start:install-target      : optee_os_ext
+1636479501.015108044:end  :install-target      : optee_os_ext
+1636479501.074073791:start:rsync               : optee_test_ext
+1636479501.080886143:end  :rsync               : optee_test_ext
+1636479501.098562012:start:configure           : optee_test_ext
+1636479501.626297312:end  :configure           : optee_test_ext
+1636479501.665260057:start:build               : optee_test_ext
+1636479502.033433752:end  :build               : optee_test_ext
+1636479502.049812786:start:install-staging     : optee_test_ext
+1636479502.085603430:end  :install-staging     : optee_test_ext
+1636479502.105520559:start:install-target      : optee_test_ext
+1636479502.189892926:end  :install-target      : optee_test_ext
+1636479671.376359006:start:rsync               : optee_client_ext
+1636479671.381961574:end  :rsync               : optee_client_ext
+1636479671.399540199:start:configure           : optee_client_ext
+1636479671.758381092:end  :configure           : optee_client_ext
+1636479671.771031161:start:build               : optee_client_ext
+1636479671.839804164:end  :build               : optee_client_ext
+1636479671.858854664:start:install-staging     : optee_client_ext
+1636479671.894485713:end  :install-staging     : optee_client_ext
+1636479671.913571834:start:install-target      : optee_client_ext
+1636479671.939803370:end  :install-target      : optee_client_ext
+1636479672.032056164:start:rsync               : optee_examples_ext
+1636479672.037624063:end  :rsync               : optee_examples_ext
+1636479672.055020005:start:configure           : optee_examples_ext
+1636479672.240612133:end  :configure           : optee_examples_ext
+1636479672.261174928:start:build               : optee_examples_ext
+1636479672.346447880:end  :build               : optee_examples_ext
+1636479672.358941402:start:install-staging     : optee_examples_ext
+1636479672.392063252:end  :install-staging     : optee_examples_ext
+1636479672.408819143:start:install-target      : optee_examples_ext
+1636479672.447726746:end  :install-target      : optee_examples_ext
+1636479672.538001320:start:rsync               : optee_os_ext
+1636479672.542958249:end  :rsync               : optee_os_ext
+1636479672.560070841:start:configure           : optee_os_ext
+1636479672.946013716:end  :configure           : optee_os_ext
+1636479672.956323878:start:build               : optee_os_ext
+1636479672.975304295:end  :build               : optee_os_ext
+1636479672.985977148:start:install-target      : optee_os_ext
+1636479673.002335230:end  :install-target      : optee_os_ext
+1636479673.060018618:start:rsync               : optee_test_ext
+1636479673.066755209:end  :rsync               : optee_test_ext
+1636479673.083332771:start:configure           : optee_test_ext
+1636479673.607180954:end  :configure           : optee_test_ext
+1636479673.646576941:start:build               : optee_test_ext
+1636479674.082764438:end  :build               : optee_test_ext
+1636479674.110186776:start:install-staging     : optee_test_ext
+1636479674.156502226:end  :install-staging     : optee_test_ext
+1636479674.174659330:start:install-target      : optee_test_ext
+1636479674.243382208:end  :install-target      : optee_test_ext
+1636479788.587979651:start:rsync               : optee_client_ext
+1636479788.593505522:end  :rsync               : optee_client_ext
+1636479788.610582093:start:configure           : optee_client_ext
+1636479789.020022826:end  :configure           : optee_client_ext
+1636479789.034259741:start:build               : optee_client_ext
+1636479789.106047215:end  :build               : optee_client_ext
+1636479789.122686982:start:install-staging     : optee_client_ext
+1636479789.160107242:end  :install-staging     : optee_client_ext
+1636479789.177539432:start:install-target      : optee_client_ext
+1636479789.200962322:end  :install-target      : optee_client_ext
+1636479789.272781516:start:rsync               : optee_examples_ext
+1636479789.279302634:end  :rsync               : optee_examples_ext
+1636479789.298521380:start:configure           : optee_examples_ext
+1636479789.493929049:end  :configure           : optee_examples_ext
+1636479789.513568372:start:build               : optee_examples_ext
+1636479789.600064929:end  :build               : optee_examples_ext
+1636479789.616099492:start:install-staging     : optee_examples_ext
+1636479789.665689680:end  :install-staging     : optee_examples_ext
+1636479789.688659992:start:install-target      : optee_examples_ext
+1636479789.738121654:end  :install-target      : optee_examples_ext
+1636479789.818140181:start:rsync               : optee_os_ext
+1636479789.823065110:end  :rsync               : optee_os_ext
+1636479789.839344635:start:configure           : optee_os_ext
+1636479790.213421164:end  :configure           : optee_os_ext
+1636479790.223717828:start:build               : optee_os_ext
+1636479790.241898867:end  :build               : optee_os_ext
+1636479790.252520335:start:install-target      : optee_os_ext
+1636479790.268428216:end  :install-target      : optee_os_ext
+1636479790.327860877:start:rsync               : optee_test_ext
+1636479790.334785334:end  :rsync               : optee_test_ext
+1636479790.354660939:start:configure           : optee_test_ext
+1636479790.851684841:end  :configure           : optee_test_ext
+1636479790.891140544:start:build               : optee_test_ext
+1636479791.191862515:end  :build               : optee_test_ext
+1636479791.207108318:start:install-staging     : optee_test_ext
+1636479791.238851622:end  :install-staging     : optee_test_ext
+1636479791.257418067:start:install-target      : optee_test_ext
+1636479791.334302287:end  :install-target      : optee_test_ext
+1636480575.199921776:start:rsync               : optee_client_ext
+1636480575.205542377:end  :rsync               : optee_client_ext
+1636480575.222561701:start:configure           : optee_client_ext
+1636480575.688578981:end  :configure           : optee_client_ext
+1636480575.701134713:start:build               : optee_client_ext
+1636480575.759943821:end  :build               : optee_client_ext
+1636480575.772407700:start:install-staging     : optee_client_ext
+1636480575.798090695:end  :install-staging     : optee_client_ext
+1636480575.811212874:start:install-target      : optee_client_ext
+1636480575.828900955:end  :install-target      : optee_client_ext
+1636480575.900369784:start:rsync               : optee_examples_ext
+1636480575.906533556:end  :rsync               : optee_examples_ext
+1636480575.925026026:start:configure           : optee_examples_ext
+1636480576.135679248:end  :configure           : optee_examples_ext
+1636480576.156720703:start:build               : optee_examples_ext
+1636480576.240424875:end  :build               : optee_examples_ext
+1636480576.253605948:start:install-staging     : optee_examples_ext
+1636480576.287928952:end  :install-staging     : optee_examples_ext
+1636480576.304654648:start:install-target      : optee_examples_ext
+1636480576.344408424:end  :install-target      : optee_examples_ext
+1636480576.428396951:start:rsync               : optee_os_ext
+1636480576.434414078:end  :rsync               : optee_os_ext
+1636480576.456554428:start:configure           : optee_os_ext
+1636480576.862328385:end  :configure           : optee_os_ext
+1636480576.872571804:start:build               : optee_os_ext
+1636480576.891625488:end  :build               : optee_os_ext
+1636480576.902197443:start:install-target      : optee_os_ext
+1636480576.918108894:end  :install-target      : optee_os_ext
+1636480576.979120447:start:rsync               : optee_test_ext
+1636480576.986667424:end  :rsync               : optee_test_ext
+1636480577.008275616:start:configure           : optee_test_ext
+1636480577.504648663:end  :configure           : optee_test_ext
+1636480577.543651131:start:build               : optee_test_ext
+1636480577.934303701:end  :build               : optee_test_ext
+1636480577.956764655:start:install-staging     : optee_test_ext
+1636480578.007843593:end  :install-staging     : optee_test_ext
+1636480578.035191605:start:install-target      : optee_test_ext
+1636480578.105880880:end  :install-target      : optee_test_ext
+1636480754.104005053:start:rsync               : optee_client_ext
+1636480754.109621103:end  :rsync               : optee_client_ext
+1636480754.126803539:start:configure           : optee_client_ext
+1636480754.450204728:end  :configure           : optee_client_ext
+1636480754.462154207:start:build               : optee_client_ext
+1636480754.518089051:end  :build               : optee_client_ext
+1636480754.530595509:start:install-staging     : optee_client_ext
+1636480754.556500823:end  :install-staging     : optee_client_ext
+1636480754.570679362:start:install-target      : optee_client_ext
+1636480754.588214471:end  :install-target      : optee_client_ext
+1636480754.660223638:start:rsync               : optee_examples_ext
+1636480754.666330884:end  :rsync               : optee_examples_ext
+1636480754.686639719:start:configure           : optee_examples_ext
+1636480754.881137313:end  :configure           : optee_examples_ext
+1636480754.902015077:start:build               : optee_examples_ext
+1636480754.988862660:end  :build               : optee_examples_ext
+1636480755.004043508:start:install-staging     : optee_examples_ext
+1636480755.038481419:end  :install-staging     : optee_examples_ext
+1636480755.054919631:start:install-target      : optee_examples_ext
+1636480755.094412896:end  :install-target      : optee_examples_ext
+1636480755.177304006:start:rsync               : optee_os_ext
+1636480755.182265414:end  :rsync               : optee_os_ext
+1636480755.199888688:start:configure           : optee_os_ext
+1636480755.575670729:end  :configure           : optee_os_ext
+1636480755.586276993:start:build               : optee_os_ext
+1636480755.603697719:end  :build               : optee_os_ext
+1636480755.614381182:start:install-target      : optee_os_ext
+1636480755.630132718:end  :install-target      : optee_os_ext
+1636480755.688926503:start:rsync               : optee_test_ext
+1636480755.695339794:end  :rsync               : optee_test_ext
+1636480755.713107904:start:configure           : optee_test_ext
+1636480756.185002680:end  :configure           : optee_test_ext
+1636480756.224174310:start:build               : optee_test_ext
+1636480756.636533067:end  :build               : optee_test_ext
+1636480756.659623360:start:install-staging     : optee_test_ext
+1636480756.710865500:end  :install-staging     : optee_test_ext
+1636480756.730775394:start:install-target      : optee_test_ext
+1636480756.791742262:end  :install-target      : optee_test_ext
+1637157889.862615252:start:rsync               : optee_client_ext
+1637157889.870429238:end  :rsync               : optee_client_ext
+1637157889.887281981:start:configure           : optee_client_ext
+1637157890.287646797:end  :configure           : optee_client_ext
+1637157890.298826717:start:build               : optee_client_ext
+1637157890.347573716:end  :build               : optee_client_ext
+1637157890.359847913:start:install-staging     : optee_client_ext
+1637157890.384449223:end  :install-staging     : optee_client_ext
+1637157890.398340082:start:install-target      : optee_client_ext
+1637157890.417071044:end  :install-target      : optee_client_ext
+1637157890.489418483:start:rsync               : optee_examples_ext
+1637157890.498041720:end  :rsync               : optee_examples_ext
+1637157890.515366094:start:configure           : optee_examples_ext
+1637157890.699478421:end  :configure           : optee_examples_ext
+1637157890.721242998:start:build               : optee_examples_ext
+1637157890.813451689:end  :build               : optee_examples_ext
+1637157890.831183511:start:install-staging     : optee_examples_ext
+1637157890.873660601:end  :install-staging     : optee_examples_ext
+1637157890.893305631:start:install-target      : optee_examples_ext
+1637157890.942228965:end  :install-target      : optee_examples_ext
+1637157891.046647030:start:rsync               : optee_os_ext
+1637157891.051541618:end  :rsync               : optee_os_ext
+1637157891.069092831:start:configure           : optee_os_ext
+1637157891.442895712:end  :configure           : optee_os_ext
+1637157891.453563352:start:build               : optee_os_ext
+1637157891.472189853:end  :build               : optee_os_ext
+1637157891.482339996:start:install-target      : optee_os_ext
+1637157891.497917871:end  :install-target      : optee_os_ext
+1637157891.555388218:start:rsync               : optee_test_ext
+1637157891.564581092:end  :rsync               : optee_test_ext
+1637157891.581500687:start:configure           : optee_test_ext
+1637157892.043133536:end  :configure           : optee_test_ext
+1637157892.083240548:start:build               : optee_test_ext
+1637157892.508343128:end  :build               : optee_test_ext
+1637157892.522622576:start:install-staging     : optee_test_ext
+1637157892.555049220:end  :install-staging     : optee_test_ext
+1637157892.573983037:start:install-target      : optee_test_ext
+1637157892.645724814:end  :install-target      : optee_test_ext
+1637161942.692026520:start:rsync               : optee_client_ext
+1637161942.697554647:end  :rsync               : optee_client_ext
+1637161942.715026735:start:configure           : optee_client_ext
+1637161943.049523631:end  :configure           : optee_client_ext
+1637161943.059679752:start:build               : optee_client_ext
+1637161943.101599437:end  :build               : optee_client_ext
+1637161943.113135084:start:install-staging     : optee_client_ext
+1637161943.133159152:end  :install-staging     : optee_client_ext
+1637161943.144728150:start:install-target      : optee_client_ext
+1637161943.160526315:end  :install-target      : optee_client_ext
+1637161943.233343996:start:rsync               : optee_examples_ext
+1637161943.239104014:end  :rsync               : optee_examples_ext
+1637161943.258881687:start:configure           : optee_examples_ext
+1637161943.480244763:end  :configure           : optee_examples_ext
+1637161943.501431818:start:build               : optee_examples_ext
+1637161943.586407242:end  :build               : optee_examples_ext
+1637161943.600222781:start:install-staging     : optee_examples_ext
+1637161943.634218186:end  :install-staging     : optee_examples_ext
+1637161943.650236008:start:install-target      : optee_examples_ext
+1637161943.690085590:end  :install-target      : optee_examples_ext
+1637161943.769630414:start:rsync               : optee_os_ext
+1637161943.774738813:end  :rsync               : optee_os_ext
+1637161943.793396645:start:configure           : optee_os_ext
+1637161944.166551054:end  :configure           : optee_os_ext
+1637161944.176832685:start:build               : optee_os_ext
+1637161944.195227126:end  :build               : optee_os_ext
+1637161944.205518777:start:install-target      : optee_os_ext
+1637161944.220911904:end  :install-target      : optee_os_ext
+1637161944.277275218:start:rsync               : optee_test_ext
+1637161944.284338781:end  :rsync               : optee_test_ext
+1637161944.303169802:start:configure           : optee_test_ext
+1637161944.775885354:end  :configure           : optee_test_ext
+1637161944.815276418:start:build               : optee_test_ext
+1637161945.133430118:end  :build               : optee_test_ext
+1637161945.165444366:start:install-staging     : optee_test_ext
+1637161945.208009351:end  :install-staging     : optee_test_ext
+1637161945.221333698:start:install-target      : optee_test_ext
+1637161945.266789018:end  :install-target      : optee_test_ext
+1637162111.319416147:start:rsync               : optee_client_ext
+1637162111.325017689:end  :rsync               : optee_client_ext
+1637162111.341920978:start:configure           : optee_client_ext
+1637162111.689901575:end  :configure           : optee_client_ext
+1637162111.700247157:start:build               : optee_client_ext
+1637162111.742811087:end  :build               : optee_client_ext
+1637162111.754217919:start:install-staging     : optee_client_ext
+1637162111.774881989:end  :install-staging     : optee_client_ext
+1637162111.786901528:start:install-target      : optee_client_ext
+1637162111.802271142:end  :install-target      : optee_client_ext
+1637162111.876111475:start:rsync               : optee_examples_ext
+1637162111.882811907:end  :rsync               : optee_examples_ext
+1637162111.906392155:start:configure           : optee_examples_ext
+1637162112.108076388:end  :configure           : optee_examples_ext
+1637162112.128209929:start:build               : optee_examples_ext
+1637162112.214399306:end  :build               : optee_examples_ext
+1637162112.229424536:start:install-staging     : optee_examples_ext
+1637162112.271218227:end  :install-staging     : optee_examples_ext
+1637162112.286881721:start:install-target      : optee_examples_ext
+1637162112.323152453:end  :install-target      : optee_examples_ext
+1637162112.400662283:start:rsync               : optee_os_ext
+1637162112.406083104:end  :rsync               : optee_os_ext
+1637162112.425739484:start:configure           : optee_os_ext
+1637162112.792839752:end  :configure           : optee_os_ext
+1637162112.803216446:start:build               : optee_os_ext
+1637162112.822197875:end  :build               : optee_os_ext
+1637162112.833172433:start:install-target      : optee_os_ext
+1637162112.850526454:end  :install-target      : optee_os_ext
+1637162112.910013708:start:rsync               : optee_test_ext
+1637162112.916792004:end  :rsync               : optee_test_ext
+1637162112.935178160:start:configure           : optee_test_ext
+1637162113.469027111:end  :configure           : optee_test_ext
+1637162113.508121733:start:build               : optee_test_ext
+1637162113.853718831:end  :build               : optee_test_ext
+1637162113.873445165:start:install-staging     : optee_test_ext
+1637162113.914292043:end  :install-staging     : optee_test_ext
+1637162113.937492567:start:install-target      : optee_test_ext
+1637162114.009271703:end  :install-target      : optee_test_ext
+1637221773.200819376:start:rsync               : optee_client_ext
+1637221773.206448372:end  :rsync               : optee_client_ext
+1637221773.222864341:start:configure           : optee_client_ext
+1637221773.561616522:end  :configure           : optee_client_ext
+1637221773.572319916:start:build               : optee_client_ext
+1637221773.632462602:end  :build               : optee_client_ext
+1637221773.649985755:start:install-staging     : optee_client_ext
+1637221773.690680383:end  :install-staging     : optee_client_ext
+1637221773.709327348:start:install-target      : optee_client_ext
+1637221773.733916488:end  :install-target      : optee_client_ext
+1637221773.805554128:start:rsync               : optee_examples_ext
+1637221773.812201010:end  :rsync               : optee_examples_ext
+1637221773.832886256:start:configure           : optee_examples_ext
+1637221774.009594916:end  :configure           : optee_examples_ext
+1637221774.030173681:start:build               : optee_examples_ext
+1637221774.123111955:end  :build               : optee_examples_ext
+1637221774.142462058:start:install-staging     : optee_examples_ext
+1637221774.218061267:end  :install-staging     : optee_examples_ext
+1637221774.251801014:start:install-target      : optee_examples_ext
+1637221774.307002233:end  :install-target      : optee_examples_ext
+1637221774.390706763:start:rsync               : optee_os_ext
+1637221774.396929942:end  :rsync               : optee_os_ext
+1637221774.419170328:start:configure           : optee_os_ext
+1637221774.790686368:end  :configure           : optee_os_ext
+1637221774.800924963:start:build               : optee_os_ext
+1637221774.819285707:end  :build               : optee_os_ext
+1637221774.829333912:start:install-target      : optee_os_ext
+1637221774.843281879:end  :install-target      : optee_os_ext
+1637221774.899224594:start:rsync               : optee_test_ext
+1637221774.906307984:end  :rsync               : optee_test_ext
+1637221774.923356106:start:configure           : optee_test_ext
+1637221775.516259261:end  :configure           : optee_test_ext
+1637221775.554747592:start:build               : optee_test_ext
+1637221776.233011422:end  :build               : optee_test_ext
+1637221776.272536478:start:install-staging     : optee_test_ext
+1637221776.335865600:end  :install-staging     : optee_test_ext
+1637221776.352908978:start:install-target      : optee_test_ext
+1637221776.421765341:end  :install-target      : optee_test_ext
+1637221848.971188819:start:rsync               : optee_client_ext
+1637221848.976964273:end  :rsync               : optee_client_ext
+1637221848.994411714:start:configure           : optee_client_ext
+1637221849.317914345:end  :configure           : optee_client_ext
+1637221849.330436566:start:build               : optee_client_ext
+1637221849.377822931:end  :build               : optee_client_ext
+1637221849.392417632:start:install-staging     : optee_client_ext
+1637221849.415180059:end  :install-staging     : optee_client_ext
+1637221849.427268748:start:install-target      : optee_client_ext
+1637221849.443848799:end  :install-target      : optee_client_ext
+1637221849.516644381:start:rsync               : optee_examples_ext
+1637221849.522210834:end  :rsync               : optee_examples_ext
+1637221849.539246938:start:configure           : optee_examples_ext
+1637221849.736322021:end  :configure           : optee_examples_ext
+1637221849.760525082:start:build               : optee_examples_ext
+1637221849.843262384:end  :build               : optee_examples_ext
+1637221849.854854316:start:install-staging     : optee_examples_ext
+1637221849.879566349:end  :install-staging     : optee_examples_ext
+1637221849.893540640:start:install-target      : optee_examples_ext
+1637221849.924201488:end  :install-target      : optee_examples_ext
+1637221849.998860963:start:rsync               : optee_os_ext
+1637221850.003915459:end  :rsync               : optee_os_ext
+1637221850.021856351:start:configure           : optee_os_ext
+1637221850.395666948:end  :configure           : optee_os_ext
+1637221850.405869492:start:build               : optee_os_ext
+1637221850.423591828:end  :build               : optee_os_ext
+1637221850.434801136:start:install-target      : optee_os_ext
+1637221850.449996952:end  :install-target      : optee_os_ext
+1637221850.506288866:start:rsync               : optee_test_ext
+1637221850.512824981:end  :rsync               : optee_test_ext
+1637221850.530782924:start:configure           : optee_test_ext
+1637221850.990065685:end  :configure           : optee_test_ext
+1637221851.029957085:start:build               : optee_test_ext
+1637221851.292964908:end  :build               : optee_test_ext
+1637221851.307857300:start:install-staging     : optee_test_ext
+1637221851.340669933:end  :install-staging     : optee_test_ext
+1637221851.359456681:start:install-target      : optee_test_ext
+1637221851.425575905:end  :install-target      : optee_test_ext
+1637225571.580713756:start:rsync               : optee_client_ext
+1637225571.586422550:end  :rsync               : optee_client_ext
+1637225571.603229052:start:configure           : optee_client_ext
+1637225571.939600116:end  :configure           : optee_client_ext
+1637225571.951356881:start:build               : optee_client_ext
+1637225571.995376285:end  :build               : optee_client_ext
+1637225572.005999392:start:install-staging     : optee_client_ext
+1637225572.026711744:end  :install-staging     : optee_client_ext
+1637225572.037955631:start:install-target      : optee_client_ext
+1637225572.053866550:end  :install-target      : optee_client_ext
+1637225572.130839867:start:rsync               : optee_examples_ext
+1637225572.137893223:end  :rsync               : optee_examples_ext
+1637225572.158770894:start:configure           : optee_examples_ext
+1637225572.367025254:end  :configure           : optee_examples_ext
+1637225572.387071193:start:build               : optee_examples_ext
+1637225572.469822506:end  :build               : optee_examples_ext
+1637225572.480555937:start:install-staging     : optee_examples_ext
+1637225572.506021137:end  :install-staging     : optee_examples_ext
+1637225572.519016441:start:install-target      : optee_examples_ext
+1637225572.549053445:end  :install-target      : optee_examples_ext
+1637225572.630217132:start:rsync               : optee_os_ext
+1637225572.635150246:end  :rsync               : optee_os_ext
+1637225572.653210985:start:configure           : optee_os_ext
+1637225573.019327172:end  :configure           : optee_os_ext
+1637225573.030844609:start:build               : optee_os_ext
+1637225573.051612550:end  :build               : optee_os_ext
+1637225573.063209224:start:install-target      : optee_os_ext
+1637225573.081679618:end  :install-target      : optee_os_ext
+1637225573.141890120:start:rsync               : optee_test_ext
+1637225573.148675974:end  :rsync               : optee_test_ext
+1637225573.166488427:start:configure           : optee_test_ext
+1637225573.629030274:end  :configure           : optee_test_ext
+1637225573.667894449:start:build               : optee_test_ext
+1637225573.946757781:end  :build               : optee_test_ext
+1637225573.967502876:start:install-staging     : optee_test_ext
+1637225574.004214646:end  :install-staging     : optee_test_ext
+1637225574.018224436:start:install-target      : optee_test_ext
+1637225574.065983475:end  :install-target      : optee_test_ext
+1637225727.112310905:start:rsync               : optee_client_ext
+1637225727.117927317:end  :rsync               : optee_client_ext
+1637225727.136733414:start:configure           : optee_client_ext
+1637225727.521804045:end  :configure           : optee_client_ext
+1637225727.537155563:start:build               : optee_client_ext
+1637225727.600023936:end  :build               : optee_client_ext
+1637225727.613416457:start:install-staging     : optee_client_ext
+1637225727.641295891:end  :install-staging     : optee_client_ext
+1637225727.657024847:start:install-target      : optee_client_ext
+1637225727.676127783:end  :install-target      : optee_client_ext
+1637225727.750712942:start:rsync               : optee_examples_ext
+1637225727.756808221:end  :rsync               : optee_examples_ext
+1637225727.777973173:start:configure           : optee_examples_ext
+1637225727.954767010:end  :configure           : optee_examples_ext
+1637225727.977251161:start:build               : optee_examples_ext
+1637225728.066563432:end  :build               : optee_examples_ext
+1637225728.078776769:start:install-staging     : optee_examples_ext
+1637225728.106037981:end  :install-staging     : optee_examples_ext
+1637225728.119968626:start:install-target      : optee_examples_ext
+1637225728.151645880:end  :install-target      : optee_examples_ext
+1637225728.231284676:start:rsync               : optee_os_ext
+1637225728.236495085:end  :rsync               : optee_os_ext
+1637225728.255940613:start:configure           : optee_os_ext
+1637225728.638649467:end  :configure           : optee_os_ext
+1637225728.649748603:start:build               : optee_os_ext
+1637225728.668680745:end  :build               : optee_os_ext
+1637225728.678863719:start:install-target      : optee_os_ext
+1637225728.694712289:end  :install-target      : optee_os_ext
+1637225728.751560272:start:rsync               : optee_test_ext
+1637225728.758375231:end  :rsync               : optee_test_ext
+1637225728.776169080:start:configure           : optee_test_ext
+1637225729.257351687:end  :configure           : optee_test_ext
+1637225729.296493279:start:build               : optee_test_ext
+1637225729.553834799:end  :build               : optee_test_ext
+1637225729.573008851:start:install-staging     : optee_test_ext
+1637225729.609488884:end  :install-staging     : optee_test_ext
+1637225729.626714327:start:install-target      : optee_test_ext
+1637225729.688453255:end  :install-target      : optee_test_ext
+1637227055.559090861:start:rsync               : optee_client_ext
+1637227055.564668552:end  :rsync               : optee_client_ext
+1637227055.581440442:start:configure           : optee_client_ext
+1637227055.953285510:end  :configure           : optee_client_ext
+1637227055.963706070:start:build               : optee_client_ext
+1637227056.006108742:end  :build               : optee_client_ext
+1637227056.016352684:start:install-staging     : optee_client_ext
+1637227056.036418904:end  :install-staging     : optee_client_ext
+1637227056.047257630:start:install-target      : optee_client_ext
+1637227056.061534314:end  :install-target      : optee_client_ext
+1637227056.134994124:start:rsync               : optee_examples_ext
+1637227056.140728422:end  :rsync               : optee_examples_ext
+1637227056.159603729:start:configure           : optee_examples_ext
+1637227056.352847966:end  :configure           : optee_examples_ext
+1637227056.373465466:start:build               : optee_examples_ext
+1637227056.455243710:end  :build               : optee_examples_ext
+1637227056.465927817:start:install-staging     : optee_examples_ext
+1637227056.490131094:end  :install-staging     : optee_examples_ext
+1637227056.502781605:start:install-target      : optee_examples_ext
+1637227056.530640454:end  :install-target      : optee_examples_ext
+1637227056.601923576:start:rsync               : optee_os_ext
+1637227056.606910621:end  :rsync               : optee_os_ext
+1637227056.624097492:start:configure           : optee_os_ext
+1637227056.977899904:end  :configure           : optee_os_ext
+1637227056.991262008:start:build               : optee_os_ext
+1637227057.009711151:end  :build               : optee_os_ext
+1637227057.020100665:start:install-target      : optee_os_ext
+1637227057.035827956:end  :install-target      : optee_os_ext
+1637227057.094671709:start:rsync               : optee_test_ext
+1637227057.101557106:end  :rsync               : optee_test_ext
+1637227057.123151298:start:configure           : optee_test_ext
+1637227057.592783234:end  :configure           : optee_test_ext
+1637227057.632659711:start:build               : optee_test_ext
+1637227057.934501342:end  :build               : optee_test_ext
+1637227057.954348461:start:install-staging     : optee_test_ext
+1637227057.998319206:end  :install-staging     : optee_test_ext
+1637227058.015000170:start:install-target      : optee_test_ext
+1637227058.070950146:end  :install-target      : optee_test_ext
+1637228865.683895950:start:rsync               : optee_client_ext
+1637228865.689582229:end  :rsync               : optee_client_ext
+1637228865.707137815:start:configure           : optee_client_ext
+1637228866.068604945:end  :configure           : optee_client_ext
+1637228866.080664213:start:build               : optee_client_ext
+1637228866.136350967:end  :build               : optee_client_ext
+1637228866.151570222:start:install-staging     : optee_client_ext
+1637228866.183416984:end  :install-staging     : optee_client_ext
+1637228866.197665156:start:install-target      : optee_client_ext
+1637228866.214944992:end  :install-target      : optee_client_ext
+1637228866.288141968:start:rsync               : optee_examples_ext
+1637228866.294249567:end  :rsync               : optee_examples_ext
+1637228866.312866122:start:configure           : optee_examples_ext
+1637228866.502716017:end  :configure           : optee_examples_ext
+1637228866.523760282:start:build               : optee_examples_ext
+1637228866.606691428:end  :build               : optee_examples_ext
+1637228866.617726668:start:install-staging     : optee_examples_ext
+1637228866.638716152:end  :install-staging     : optee_examples_ext
+1637228866.650910879:start:install-target      : optee_examples_ext
+1637228866.675606175:end  :install-target      : optee_examples_ext
+1637228866.744728872:start:rsync               : optee_os_ext
+1637228866.749889795:end  :rsync               : optee_os_ext
+1637228866.768384327:start:configure           : optee_os_ext
+1637228867.127866379:end  :configure           : optee_os_ext
+1637228867.138058140:start:build               : optee_os_ext
+1637228867.156609073:end  :build               : optee_os_ext
+1637228867.166787541:start:install-target      : optee_os_ext
+1637228867.181615862:end  :install-target      : optee_os_ext
+1637228867.240124086:start:rsync               : optee_test_ext
+1637228867.246739000:end  :rsync               : optee_test_ext
+1637228867.263336480:start:configure           : optee_test_ext
+1637228867.724012406:end  :configure           : optee_test_ext
+1637228867.763181364:start:build               : optee_test_ext
+1637228868.049175073:end  :build               : optee_test_ext
+1637228868.066783043:start:install-staging     : optee_test_ext
+1637228868.106090500:end  :install-staging     : optee_test_ext
+1637228868.127510285:start:install-target      : optee_test_ext
+1637228868.196013879:end  :install-target      : optee_test_ext
+1637229087.625084542:start:rsync               : optee_client_ext
+1637229087.630783674:end  :rsync               : optee_client_ext
+1637229087.648271791:start:configure           : optee_client_ext
+1637229087.998036061:end  :configure           : optee_client_ext
+1637229088.010489132:start:build               : optee_client_ext
+1637229088.072296460:end  :build               : optee_client_ext
+1637229088.086967983:start:install-staging     : optee_client_ext
+1637229088.115644714:end  :install-staging     : optee_client_ext
+1637229088.130595189:start:install-target      : optee_client_ext
+1637229088.149601337:end  :install-target      : optee_client_ext
+1637229088.222924826:start:rsync               : optee_examples_ext
+1637229088.229732345:end  :rsync               : optee_examples_ext
+1637229088.252385030:start:configure           : optee_examples_ext
+1637229088.435449434:end  :configure           : optee_examples_ext
+1637229088.455811567:start:build               : optee_examples_ext
+1637229088.540177421:end  :build               : optee_examples_ext
+1637229088.553652491:start:install-staging     : optee_examples_ext
+1637229088.584838860:end  :install-staging     : optee_examples_ext
+1637229088.600787734:start:install-target      : optee_examples_ext
+1637229088.639187540:end  :install-target      : optee_examples_ext
+1637229088.711101909:start:rsync               : optee_os_ext
+1637229088.716698497:end  :rsync               : optee_os_ext
+1637229088.737597924:start:configure           : optee_os_ext
+1637229089.103804314:end  :configure           : optee_os_ext
+1637229089.114552765:start:build               : optee_os_ext
+1637229089.134079089:end  :build               : optee_os_ext
+1637229089.145004817:start:install-target      : optee_os_ext
+1637229089.161372809:end  :install-target      : optee_os_ext
+1637229089.220033103:start:rsync               : optee_test_ext
+1637229089.226806707:end  :rsync               : optee_test_ext
+1637229089.244655255:start:configure           : optee_test_ext
+1637229089.717173171:end  :configure           : optee_test_ext
+1637229089.756723729:start:build               : optee_test_ext
+1637229090.041519581:end  :build               : optee_test_ext
+1637229090.062967269:start:install-staging     : optee_test_ext
+1637229090.106072476:end  :install-staging     : optee_test_ext
+1637229090.122084152:start:install-target      : optee_test_ext
+1637229090.178198009:end  :install-target      : optee_test_ext
+1637229265.958149968:start:rsync               : optee_client_ext
+1637229265.963882070:end  :rsync               : optee_client_ext
+1637229265.980880503:start:configure           : optee_client_ext
+1637229266.295287103:end  :configure           : optee_client_ext
+1637229266.305906714:start:build               : optee_client_ext
+1637229266.348172917:end  :build               : optee_client_ext
+1637229266.358917105:start:install-staging     : optee_client_ext
+1637229266.378363474:end  :install-staging     : optee_client_ext
+1637229266.390043297:start:install-target      : optee_client_ext
+1637229266.404272331:end  :install-target      : optee_client_ext
+1637229266.479135044:start:rsync               : optee_examples_ext
+1637229266.485049997:end  :rsync               : optee_examples_ext
+1637229266.502594679:start:configure           : optee_examples_ext
+1637229266.711544051:end  :configure           : optee_examples_ext
+1637229266.733040273:start:build               : optee_examples_ext
+1637229266.823441909:end  :build               : optee_examples_ext
+1637229266.837325303:start:install-staging     : optee_examples_ext
+1637229266.866278097:end  :install-staging     : optee_examples_ext
+1637229266.880430415:start:install-target      : optee_examples_ext
+1637229266.913824513:end  :install-target      : optee_examples_ext
+1637229266.988632987:start:rsync               : optee_os_ext
+1637229266.993623951:end  :rsync               : optee_os_ext
+1637229267.011358169:start:configure           : optee_os_ext
+1637229267.391516301:end  :configure           : optee_os_ext
+1637229267.401641614:start:build               : optee_os_ext
+1637229267.420337931:end  :build               : optee_os_ext
+1637229267.430541933:start:install-target      : optee_os_ext
+1637229267.445252075:end  :install-target      : optee_os_ext
+1637229267.503091121:start:rsync               : optee_test_ext
+1637229267.510044315:end  :rsync               : optee_test_ext
+1637229267.528343379:start:configure           : optee_test_ext
+1637229267.991635119:end  :configure           : optee_test_ext
+1637229268.032086402:start:build               : optee_test_ext
+1637229268.348749707:end  :build               : optee_test_ext
+1637229268.369934140:start:install-staging     : optee_test_ext
+1637229268.411765153:end  :install-staging     : optee_test_ext
+1637229268.428487494:start:install-target      : optee_test_ext
+1637229268.481501004:end  :install-target      : optee_test_ext
+1637231245.312607236:start:rsync               : optee_client_ext
+1637231245.318295906:end  :rsync               : optee_client_ext
+1637231245.336048480:start:configure           : optee_client_ext
+1637231245.680171038:end  :configure           : optee_client_ext
+1637231245.694193099:start:build               : optee_client_ext
+1637231245.752515485:end  :build               : optee_client_ext
+1637231245.764906487:start:install-staging     : optee_client_ext
+1637231245.790754275:end  :install-staging     : optee_client_ext
+1637231245.803846086:start:install-target      : optee_client_ext
+1637231245.821171213:end  :install-target      : optee_client_ext
+1637231245.894008585:start:rsync               : optee_examples_ext
+1637231245.899312001:end  :rsync               : optee_examples_ext
+1637231245.918731416:start:configure           : optee_examples_ext
+1637231246.130664477:end  :configure           : optee_examples_ext
+1637231246.150531281:start:build               : optee_examples_ext
+1637231246.233144761:end  :build               : optee_examples_ext
+1637231246.243607914:start:install-staging     : optee_examples_ext
+1637231246.266717219:end  :install-staging     : optee_examples_ext
+1637231246.279928558:start:install-target      : optee_examples_ext
+1637231246.307308734:end  :install-target      : optee_examples_ext
+1637231246.380346245:start:rsync               : optee_os_ext
+1637231246.385874041:end  :rsync               : optee_os_ext
+1637231246.403831035:start:configure           : optee_os_ext
+1637231246.772510040:end  :configure           : optee_os_ext
+1637231246.782659550:start:build               : optee_os_ext
+1637231246.801302528:end  :build               : optee_os_ext
+1637231246.812040030:start:install-target      : optee_os_ext
+1637231246.830195586:end  :install-target      : optee_os_ext
+1637231246.890677572:start:rsync               : optee_test_ext
+1637231246.897566934:end  :rsync               : optee_test_ext
+1637231246.916326639:start:configure           : optee_test_ext
+1637231247.358603590:end  :configure           : optee_test_ext
+1637231247.397988986:start:build               : optee_test_ext
+1637231247.681934571:end  :build               : optee_test_ext
+1637231247.702950745:start:install-staging     : optee_test_ext
+1637231247.751914598:end  :install-staging     : optee_test_ext
+1637231247.779453763:start:install-target      : optee_test_ext
+1637231247.840359982:end  :install-target      : optee_test_ext
+1637231989.037871819:start:rsync               : optee_client_ext
+1637231989.043389576:end  :rsync               : optee_client_ext
+1637231989.059742489:start:configure           : optee_client_ext
+1637231989.419980784:end  :configure           : optee_client_ext
+1637231989.432485886:start:build               : optee_client_ext
+1637231989.489019824:end  :build               : optee_client_ext
+1637231989.501857457:start:install-staging     : optee_client_ext
+1637231989.527430680:end  :install-staging     : optee_client_ext
+1637231989.540914956:start:install-target      : optee_client_ext
+1637231989.557730304:end  :install-target      : optee_client_ext
+1637231989.631022697:start:rsync               : optee_examples_ext
+1637231989.636560898:end  :rsync               : optee_examples_ext
+1637231989.655374176:start:configure           : optee_examples_ext
+1637231989.852908264:end  :configure           : optee_examples_ext
+1637231989.873830335:start:build               : optee_examples_ext
+1637231989.955603012:end  :build               : optee_examples_ext
+1637231989.968255399:start:install-staging     : optee_examples_ext
+1637231989.994409918:end  :install-staging     : optee_examples_ext
+1637231990.008180856:start:install-target      : optee_examples_ext
+1637231990.039419020:end  :install-target      : optee_examples_ext
+1637231990.111913557:start:rsync               : optee_os_ext
+1637231990.117028491:end  :rsync               : optee_os_ext
+1637231990.135746698:start:configure           : optee_os_ext
+1637231990.506673561:end  :configure           : optee_os_ext
+1637231990.517034014:start:build               : optee_os_ext
+1637231990.536125245:end  :build               : optee_os_ext
+1637231990.546296675:start:install-target      : optee_os_ext
+1637231990.562309212:end  :install-target      : optee_os_ext
+1637231990.622153019:start:rsync               : optee_test_ext
+1637231990.628997509:end  :rsync               : optee_test_ext
+1637231990.646001254:start:configure           : optee_test_ext
+1637231991.119087755:end  :configure           : optee_test_ext
+1637231991.159061920:start:build               : optee_test_ext
+1637231991.437011694:end  :build               : optee_test_ext
+1637231991.453042240:start:install-staging     : optee_test_ext
+1637231991.477607024:end  :install-staging     : optee_test_ext
+1637231991.493043935:start:install-target      : optee_test_ext
+1637231991.545818607:end  :install-target      : optee_test_ext
+1637232306.116153473:start:rsync               : optee_client_ext
+1637232306.122127958:end  :rsync               : optee_client_ext
+1637232306.139175914:start:configure           : optee_client_ext
+1637232306.515625713:end  :configure           : optee_client_ext
+1637232306.529675017:start:build               : optee_client_ext
+1637232306.592132642:end  :build               : optee_client_ext
+1637232306.605424340:start:install-staging     : optee_client_ext
+1637232306.633524114:end  :install-staging     : optee_client_ext
+1637232306.648470123:start:install-target      : optee_client_ext
+1637232306.666707452:end  :install-target      : optee_client_ext
+1637232306.740197766:start:rsync               : optee_examples_ext
+1637232306.746371650:end  :rsync               : optee_examples_ext
+1637232306.767037941:start:configure           : optee_examples_ext
+1637232306.973199499:end  :configure           : optee_examples_ext
+1637232306.993374967:start:build               : optee_examples_ext
+1637232307.080673569:end  :build               : optee_examples_ext
+1637232307.096597526:start:install-staging     : optee_examples_ext
+1637232307.130747053:end  :install-staging     : optee_examples_ext
+1637232307.147231601:start:install-target      : optee_examples_ext
+1637232307.186860307:end  :install-target      : optee_examples_ext
+1637232307.276175529:start:rsync               : optee_os_ext
+1637232307.281622064:end  :rsync               : optee_os_ext
+1637232307.299876789:start:configure           : optee_os_ext
+1637232307.706714877:end  :configure           : optee_os_ext
+1637232307.717085471:start:build               : optee_os_ext
+1637232307.735796884:end  :build               : optee_os_ext
+1637232307.745925957:start:install-target      : optee_os_ext
+1637232307.761375513:end  :install-target      : optee_os_ext
+1637232307.818494417:start:rsync               : optee_test_ext
+1637232307.825375678:end  :rsync               : optee_test_ext
+1637232307.843838234:start:configure           : optee_test_ext
+1637232308.382726145:end  :configure           : optee_test_ext
+1637232308.422776566:start:build               : optee_test_ext
+1637232308.738943019:end  :build               : optee_test_ext
+1637232308.753712118:start:install-staging     : optee_test_ext
+1637232308.786999629:end  :install-staging     : optee_test_ext
+1637232308.806250698:start:install-target      : optee_test_ext
+1637232308.879024459:end  :install-target      : optee_test_ext
+1637232442.117026876:start:rsync               : optee_client_ext
+1637232442.122732293:end  :rsync               : optee_client_ext
+1637232442.139569924:start:configure           : optee_client_ext
+1637232442.528866456:end  :configure           : optee_client_ext
+1637232442.542447603:start:build               : optee_client_ext
+1637232442.610132595:end  :build               : optee_client_ext
+1637232442.624636675:start:install-staging     : optee_client_ext
+1637232442.656833767:end  :install-staging     : optee_client_ext
+1637232442.671826761:start:install-target      : optee_client_ext
+1637232442.690625719:end  :install-target      : optee_client_ext
+1637232442.761968239:start:rsync               : optee_examples_ext
+1637232442.767353005:end  :rsync               : optee_examples_ext
+1637232442.785107498:start:configure           : optee_examples_ext
+1637232442.981097434:end  :configure           : optee_examples_ext
+1637232443.001681381:start:build               : optee_examples_ext
+1637232443.083908966:end  :build               : optee_examples_ext
+1637232443.094849177:start:install-staging     : optee_examples_ext
+1637232443.118534849:end  :install-staging     : optee_examples_ext
+1637232443.130838512:start:install-target      : optee_examples_ext
+1637232443.157057272:end  :install-target      : optee_examples_ext
+1637232443.227485153:start:rsync               : optee_os_ext
+1637232443.232934236:end  :rsync               : optee_os_ext
+1637232443.253447651:start:configure           : optee_os_ext
+1637232443.631654198:end  :configure           : optee_os_ext
+1637232443.641768407:start:build               : optee_os_ext
+1637232443.660735010:end  :build               : optee_os_ext
+1637232443.670853975:start:install-target      : optee_os_ext
+1637232443.685779291:end  :install-target      : optee_os_ext
+1637232443.742634611:start:rsync               : optee_test_ext
+1637232443.749362997:end  :rsync               : optee_test_ext
+1637232443.766576627:start:configure           : optee_test_ext
+1637232444.212765024:end  :configure           : optee_test_ext
+1637232444.252078310:start:build               : optee_test_ext
+1637232444.543518056:end  :build               : optee_test_ext
+1637232444.556414636:start:install-staging     : optee_test_ext
+1637232444.582085284:end  :install-staging     : optee_test_ext
+1637232444.596771343:start:install-target      : optee_test_ext
+1637232444.650864714:end  :install-target      : optee_test_ext
+1637232484.208264810:start:rsync               : optee_client_ext
+1637232484.213905212:end  :rsync               : optee_client_ext
+1637232484.231388315:start:configure           : optee_client_ext
+1637232484.594464955:end  :configure           : optee_client_ext
+1637232484.608071137:start:build               : optee_client_ext
+1637232484.662832682:end  :build               : optee_client_ext
+1637232484.676258022:start:install-staging     : optee_client_ext
+1637232484.702382834:end  :install-staging     : optee_client_ext
+1637232484.716543972:start:install-target      : optee_client_ext
+1637232484.734988315:end  :install-target      : optee_client_ext
+1637232484.807492604:start:rsync               : optee_examples_ext
+1637232484.814528921:end  :rsync               : optee_examples_ext
+1637232484.836612612:start:configure           : optee_examples_ext
+1637232485.017908013:end  :configure           : optee_examples_ext
+1637232485.038243589:start:build               : optee_examples_ext
+1637232485.133434213:end  :build               : optee_examples_ext
+1637232485.146785008:start:install-staging     : optee_examples_ext
+1637232485.178876369:end  :install-staging     : optee_examples_ext
+1637232485.195528780:start:install-target      : optee_examples_ext
+1637232485.233556548:end  :install-target      : optee_examples_ext
+1637232485.310469241:start:rsync               : optee_os_ext
+1637232485.315366961:end  :rsync               : optee_os_ext
+1637232485.333196621:start:configure           : optee_os_ext
+1637232485.720526513:end  :configure           : optee_os_ext
+1637232485.731905596:start:build               : optee_os_ext
+1637232485.751141471:end  :build               : optee_os_ext
+1637232485.761992283:start:install-target      : optee_os_ext
+1637232485.780138421:end  :install-target      : optee_os_ext
+1637232485.840576757:start:rsync               : optee_test_ext
+1637232485.847106005:end  :rsync               : optee_test_ext
+1637232485.866076388:start:configure           : optee_test_ext
+1637232486.310342838:end  :configure           : optee_test_ext
+1637232486.350322045:start:build               : optee_test_ext
+1637232486.617941538:end  :build               : optee_test_ext
+1637232486.633671865:start:install-staging     : optee_test_ext
+1637232486.669466640:end  :install-staging     : optee_test_ext
+1637232486.689158682:start:install-target      : optee_test_ext
+1637232486.753241414:end  :install-target      : optee_test_ext
+1637232517.880629426:start:rsync               : optee_client_ext
+1637232517.886292646:end  :rsync               : optee_client_ext
+1637232517.903245534:start:configure           : optee_client_ext
+1637232518.269953851:end  :configure           : optee_client_ext
+1637232518.284093496:start:build               : optee_client_ext
+1637232518.339096378:end  :build               : optee_client_ext
+1637232518.351673371:start:install-staging     : optee_client_ext
+1637232518.375940166:end  :install-staging     : optee_client_ext
+1637232518.389458751:start:install-target      : optee_client_ext
+1637232518.406982136:end  :install-target      : optee_client_ext
+1637232518.485190266:start:rsync               : optee_examples_ext
+1637232518.492132760:end  :rsync               : optee_examples_ext
+1637232518.517920451:start:configure           : optee_examples_ext
+1637232518.714148396:end  :configure           : optee_examples_ext
+1637232518.735716633:start:build               : optee_examples_ext
+1637232518.827689502:end  :build               : optee_examples_ext
+1637232518.842805732:start:install-staging     : optee_examples_ext
+1637232518.875578159:end  :install-staging     : optee_examples_ext
+1637232518.891654799:start:install-target      : optee_examples_ext
+1637232518.929982420:end  :install-target      : optee_examples_ext
+1637232519.007995106:start:rsync               : optee_os_ext
+1637232519.013191324:end  :rsync               : optee_os_ext
+1637232519.030420642:start:configure           : optee_os_ext
+1637232519.407481940:end  :configure           : optee_os_ext
+1637232519.418845859:start:build               : optee_os_ext
+1637232519.439315347:end  :build               : optee_os_ext
+1637232519.451049933:start:install-target      : optee_os_ext
+1637232519.469062546:end  :install-target      : optee_os_ext
+1637232519.533346569:start:rsync               : optee_test_ext
+1637232519.540232688:end  :rsync               : optee_test_ext
+1637232519.558234734:start:configure           : optee_test_ext
+1637232520.038599508:end  :configure           : optee_test_ext
+1637232520.077371319:start:build               : optee_test_ext
+1637232520.357460453:end  :build               : optee_test_ext
+1637232520.371857302:start:install-staging     : optee_test_ext
+1637232520.404228306:end  :install-staging     : optee_test_ext
+1637232520.422533184:start:install-target      : optee_test_ext
+1637232520.483232666:end  :install-target      : optee_test_ext
+1637233789.026840807:start:rsync               : optee_client_ext
+1637233789.032449773:end  :rsync               : optee_client_ext
+1637233789.050395066:start:configure           : optee_client_ext
+1637233789.372182900:end  :configure           : optee_client_ext
+1637233789.383552002:start:build               : optee_client_ext
+1637233789.434416371:end  :build               : optee_client_ext
+1637233789.446043531:start:install-staging     : optee_client_ext
+1637233789.468977374:end  :install-staging     : optee_client_ext
+1637233789.481084531:start:install-target      : optee_client_ext
+1637233789.497176558:end  :install-target      : optee_client_ext
+1637233789.570196583:start:rsync               : optee_examples_ext
+1637233789.576058988:end  :rsync               : optee_examples_ext
+1637233789.594572865:start:configure           : optee_examples_ext
+1637233789.794653703:end  :configure           : optee_examples_ext
+1637233789.815108241:start:build               : optee_examples_ext
+1637233789.903454256:end  :build               : optee_examples_ext
+1637233789.916814403:start:install-staging     : optee_examples_ext
+1637233789.945807151:end  :install-staging     : optee_examples_ext
+1637233789.959936205:start:install-target      : optee_examples_ext
+1637233789.993003674:end  :install-target      : optee_examples_ext
+1637233790.067325291:start:rsync               : optee_os_ext
+1637233790.072634608:end  :rsync               : optee_os_ext
+1637233790.091088907:start:configure           : optee_os_ext
+1637233790.458808276:end  :configure           : optee_os_ext
+1637233790.470050396:start:build               : optee_os_ext
+1637233790.488709459:end  :build               : optee_os_ext
+1637233790.499057549:start:install-target      : optee_os_ext
+1637233790.514982757:end  :install-target      : optee_os_ext
+1637233790.573176953:start:rsync               : optee_test_ext
+1637233790.579983559:end  :rsync               : optee_test_ext
+1637233790.598361173:start:configure           : optee_test_ext
+1637233791.065976903:end  :configure           : optee_test_ext
+1637233791.105460507:start:build               : optee_test_ext
+1637233791.374344696:end  :build               : optee_test_ext
+1637233791.389329466:start:install-staging     : optee_test_ext
+1637233791.424981860:end  :install-staging     : optee_test_ext
+1637233791.443568385:start:install-target      : optee_test_ext
+1637233791.507202219:end  :install-target      : optee_test_ext
+1637233813.892331206:start:rsync               : optee_client_ext
+1637233813.898091326:end  :rsync               : optee_client_ext
+1637233813.915945998:start:configure           : optee_client_ext
+1637233814.262000477:end  :configure           : optee_client_ext
+1637233814.275671158:start:build               : optee_client_ext
+1637233814.327217194:end  :build               : optee_client_ext
+1637233814.339139071:start:install-staging     : optee_client_ext
+1637233814.360467507:end  :install-staging     : optee_client_ext
+1637233814.375737741:start:install-target      : optee_client_ext
+1637233814.396690455:end  :install-target      : optee_client_ext
+1637233814.477389942:start:rsync               : optee_examples_ext
+1637233814.482936534:end  :rsync               : optee_examples_ext
+1637233814.500474221:start:configure           : optee_examples_ext
+1637233814.688660464:end  :configure           : optee_examples_ext
+1637233814.709086901:start:build               : optee_examples_ext
+1637233814.796418914:end  :build               : optee_examples_ext
+1637233814.811672279:start:install-staging     : optee_examples_ext
+1637233814.848210533:end  :install-staging     : optee_examples_ext
+1637233814.864609523:start:install-target      : optee_examples_ext
+1637233814.900511855:end  :install-target      : optee_examples_ext
+1637233814.973356713:start:rsync               : optee_os_ext
+1637233814.978545533:end  :rsync               : optee_os_ext
+1637233814.998467820:start:configure           : optee_os_ext
+1637233815.377178276:end  :configure           : optee_os_ext
+1637233815.388591388:start:build               : optee_os_ext
+1637233815.406556110:end  :build               : optee_os_ext
+1637233815.416982666:start:install-target      : optee_os_ext
+1637233815.432573755:end  :install-target      : optee_os_ext
+1637233815.489879452:start:rsync               : optee_test_ext
+1637233815.496608432:end  :rsync               : optee_test_ext
+1637233815.514415403:start:configure           : optee_test_ext
+1637233815.948771502:end  :configure           : optee_test_ext
+1637233815.988668933:start:build               : optee_test_ext
+1637233816.182322845:end  :build               : optee_test_ext
+1637233816.193975878:start:install-staging     : optee_test_ext
+1637233816.217095337:end  :install-staging     : optee_test_ext
+1637233816.235880594:start:install-target      : optee_test_ext
+1637233816.307786996:end  :install-target      : optee_test_ext
+1637233936.356351897:start:rsync               : optee_client_ext
+1637233936.362001819:end  :rsync               : optee_client_ext
+1637233936.378861649:start:configure           : optee_client_ext
+1637233936.722054006:end  :configure           : optee_client_ext
+1637233936.734845114:start:build               : optee_client_ext
+1637233936.793605463:end  :build               : optee_client_ext
+1637233936.807526806:start:install-staging     : optee_client_ext
+1637233936.836598428:end  :install-staging     : optee_client_ext
+1637233936.851209201:start:install-target      : optee_client_ext
+1637233936.872869890:end  :install-target      : optee_client_ext
+1637233936.963783030:start:rsync               : optee_examples_ext
+1637233936.969636949:end  :rsync               : optee_examples_ext
+1637233936.990007135:start:configure           : optee_examples_ext
+1637233937.167707671:end  :configure           : optee_examples_ext
+1637233937.188786457:start:build               : optee_examples_ext
+1637233937.274725172:end  :build               : optee_examples_ext
+1637233937.288073171:start:install-staging     : optee_examples_ext
+1637233937.314658508:end  :install-staging     : optee_examples_ext
+1637233937.328501155:start:install-target      : optee_examples_ext
+1637233937.360746886:end  :install-target      : optee_examples_ext
+1637233937.433579805:start:rsync               : optee_os_ext
+1637233937.438893777:end  :rsync               : optee_os_ext
+1637233937.459527914:start:configure           : optee_os_ext
+1637233937.819764708:end  :configure           : optee_os_ext
+1637233937.831298918:start:build               : optee_os_ext
+1637233937.849690674:end  :build               : optee_os_ext
+1637233937.860255070:start:install-target      : optee_os_ext
+1637233937.877074876:end  :install-target      : optee_os_ext
+1637233937.935624969:start:rsync               : optee_test_ext
+1637233937.942438967:end  :rsync               : optee_test_ext
+1637233937.962164819:start:configure           : optee_test_ext
+1637233938.418106978:end  :configure           : optee_test_ext
+1637233938.457219945:start:build               : optee_test_ext
+1637233938.733651254:end  :build               : optee_test_ext
+1637233938.745490568:start:install-staging     : optee_test_ext
+1637233938.768693383:end  :install-staging     : optee_test_ext
+1637233938.786661741:start:install-target      : optee_test_ext
+1637233938.838885394:end  :install-target      : optee_test_ext
+1637234006.546689930:start:rsync               : optee_client_ext
+1637234006.552184295:end  :rsync               : optee_client_ext
+1637234006.570084734:start:configure           : optee_client_ext
+1637234006.922546316:end  :configure           : optee_client_ext
+1637234006.936178866:start:build               : optee_client_ext
+1637234006.990587164:end  :build               : optee_client_ext
+1637234007.001204621:start:install-staging     : optee_client_ext
+1637234007.021149859:end  :install-staging     : optee_client_ext
+1637234007.034027858:start:install-target      : optee_client_ext
+1637234007.049994773:end  :install-target      : optee_client_ext
+1637234007.122984167:start:rsync               : optee_examples_ext
+1637234007.128627453:end  :rsync               : optee_examples_ext
+1637234007.146251257:start:configure           : optee_examples_ext
+1637234007.327691416:end  :configure           : optee_examples_ext
+1637234007.349349521:start:build               : optee_examples_ext
+1637234007.433603970:end  :build               : optee_examples_ext
+1637234007.444465549:start:install-staging     : optee_examples_ext
+1637234007.466485988:end  :install-staging     : optee_examples_ext
+1637234007.478529970:start:install-target      : optee_examples_ext
+1637234007.504018649:end  :install-target      : optee_examples_ext
+1637234007.574012154:start:rsync               : optee_os_ext
+1637234007.578984135:end  :rsync               : optee_os_ext
+1637234007.597962193:start:configure           : optee_os_ext
+1637234007.963478449:end  :configure           : optee_os_ext
+1637234007.973857012:start:build               : optee_os_ext
+1637234007.992835844:end  :build               : optee_os_ext
+1637234008.003192609:start:install-target      : optee_os_ext
+1637234008.018436211:end  :install-target      : optee_os_ext
+1637234008.076555388:start:rsync               : optee_test_ext
+1637234008.083188004:end  :rsync               : optee_test_ext
+1637234008.100026084:start:configure           : optee_test_ext
+1637234008.569535257:end  :configure           : optee_test_ext
+1637234008.609498339:start:build               : optee_test_ext
+1637234008.857646470:end  :build               : optee_test_ext
+1637234008.870547761:start:install-staging     : optee_test_ext
+1637234008.903642852:end  :install-staging     : optee_test_ext
+1637234008.923022471:start:install-target      : optee_test_ext
+1637234008.992248531:end  :install-target      : optee_test_ext
+1637234106.742610636:start:rsync               : optee_client_ext
+1637234106.748248566:end  :rsync               : optee_client_ext
+1637234106.765191055:start:configure           : optee_client_ext
+1637234107.118611217:end  :configure           : optee_client_ext
+1637234107.132253478:start:build               : optee_client_ext
+1637234107.192348099:end  :build               : optee_client_ext
+1637234107.205919470:start:install-staging     : optee_client_ext
+1637234107.233879645:end  :install-staging     : optee_client_ext
+1637234107.248187934:start:install-target      : optee_client_ext
+1637234107.266841805:end  :install-target      : optee_client_ext
+1637234107.339278756:start:rsync               : optee_examples_ext
+1637234107.345356503:end  :rsync               : optee_examples_ext
+1637234107.365689548:start:configure           : optee_examples_ext
+1637234107.548486267:end  :configure           : optee_examples_ext
+1637234107.569274589:start:build               : optee_examples_ext
+1637234107.651778991:end  :build               : optee_examples_ext
+1637234107.663990713:start:install-staging     : optee_examples_ext
+1637234107.697652185:end  :install-staging     : optee_examples_ext
+1637234107.714099220:start:install-target      : optee_examples_ext
+1637234107.757936305:end  :install-target      : optee_examples_ext
+1637234107.832159110:start:rsync               : optee_os_ext
+1637234107.837203541:end  :rsync               : optee_os_ext
+1637234107.855126865:start:configure           : optee_os_ext
+1637234108.218387991:end  :configure           : optee_os_ext
+1637234108.228903129:start:build               : optee_os_ext
+1637234108.247328030:end  :build               : optee_os_ext
+1637234108.257815927:start:install-target      : optee_os_ext
+1637234108.273195238:end  :install-target      : optee_os_ext
+1637234108.330368313:start:rsync               : optee_test_ext
+1637234108.337204328:end  :rsync               : optee_test_ext
+1637234108.354890772:start:configure           : optee_test_ext
+1637234108.845695836:end  :configure           : optee_test_ext
+1637234108.885350404:start:build               : optee_test_ext
+1637234109.167149563:end  :build               : optee_test_ext
+1637234109.188555368:start:install-staging     : optee_test_ext
+1637234109.232720568:end  :install-staging     : optee_test_ext
+1637234109.248597309:start:install-target      : optee_test_ext
+1637234109.302191195:end  :install-target      : optee_test_ext
+1637234461.307936097:start:rsync               : optee_client_ext
+1637234461.313561191:end  :rsync               : optee_client_ext
+1637234461.331517418:start:configure           : optee_client_ext
+1637234461.679816089:end  :configure           : optee_client_ext
+1637234461.692565798:start:build               : optee_client_ext
+1637234461.736132873:end  :build               : optee_client_ext
+1637234461.746638770:start:install-staging     : optee_client_ext
+1637234461.766822723:end  :install-staging     : optee_client_ext
+1637234461.778661135:start:install-target      : optee_client_ext
+1637234461.795332168:end  :install-target      : optee_client_ext
+1637234461.867839296:start:rsync               : optee_examples_ext
+1637234461.874166015:end  :rsync               : optee_examples_ext
+1637234461.894104918:start:configure           : optee_examples_ext
+1637234462.081305255:end  :configure           : optee_examples_ext
+1637234462.102444391:start:build               : optee_examples_ext
+1637234462.185275834:end  :build               : optee_examples_ext
+1637234462.196703633:start:install-staging     : optee_examples_ext
+1637234462.217027369:end  :install-staging     : optee_examples_ext
+1637234462.228170973:start:install-target      : optee_examples_ext
+1637234462.251252357:end  :install-target      : optee_examples_ext
+1637234462.319156653:start:rsync               : optee_os_ext
+1637234462.324675850:end  :rsync               : optee_os_ext
+1637234462.342446332:start:configure           : optee_os_ext
+1637234462.706642059:end  :configure           : optee_os_ext
+1637234462.717036861:start:build               : optee_os_ext
+1637234462.735672449:end  :build               : optee_os_ext
+1637234462.747552814:start:install-target      : optee_os_ext
+1637234462.762894776:end  :install-target      : optee_os_ext
+1637234462.819149870:start:rsync               : optee_test_ext
+1637234462.825751411:end  :rsync               : optee_test_ext
+1637234462.842701275:start:configure           : optee_test_ext
+1637234463.346045051:end  :configure           : optee_test_ext
+1637234463.386051481:start:build               : optee_test_ext
+1637234463.668402864:end  :build               : optee_test_ext
+1637234463.681849630:start:install-staging     : optee_test_ext
+1637234463.701703893:end  :install-staging     : optee_test_ext
+1637234463.715079701:start:install-target      : optee_test_ext
+1637234463.759127373:end  :install-target      : optee_test_ext
+1637234549.438084391:start:rsync               : optee_client_ext
+1637234549.443534355:end  :rsync               : optee_client_ext
+1637234549.460512321:start:configure           : optee_client_ext
+1637234549.878606193:end  :configure           : optee_client_ext
+1637234549.893288441:start:build               : optee_client_ext
+1637234549.955220788:end  :build               : optee_client_ext
+1637234549.968380427:start:install-staging     : optee_client_ext
+1637234549.996325570:end  :install-staging     : optee_client_ext
+1637234550.010391935:start:install-target      : optee_client_ext
+1637234550.031091362:end  :install-target      : optee_client_ext
+1637234550.111150563:start:rsync               : optee_examples_ext
+1637234550.117319142:end  :rsync               : optee_examples_ext
+1637234550.138043927:start:configure           : optee_examples_ext
+1637234550.331632762:end  :configure           : optee_examples_ext
+1637234550.353106119:start:build               : optee_examples_ext
+1637234550.441590674:end  :build               : optee_examples_ext
+1637234550.457418328:start:install-staging     : optee_examples_ext
+1637234550.498359222:end  :install-staging     : optee_examples_ext
+1637234550.513598138:start:install-target      : optee_examples_ext
+1637234550.558315930:end  :install-target      : optee_examples_ext
+1637234550.640725524:start:rsync               : optee_os_ext
+1637234550.645921014:end  :rsync               : optee_os_ext
+1637234550.663508569:start:configure           : optee_os_ext
+1637234551.030197023:end  :configure           : optee_os_ext
+1637234551.040464154:start:build               : optee_os_ext
+1637234551.059653234:end  :build               : optee_os_ext
+1637234551.070336710:start:install-target      : optee_os_ext
+1637234551.086263981:end  :install-target      : optee_os_ext
+1637234551.142708666:start:rsync               : optee_test_ext
+1637234551.149435326:end  :rsync               : optee_test_ext
+1637234551.165985421:start:configure           : optee_test_ext
+1637234551.680458716:end  :configure           : optee_test_ext
+1637234551.721383053:start:build               : optee_test_ext
+1637234552.063997007:end  :build               : optee_test_ext
+1637234552.079997938:start:install-staging     : optee_test_ext
+1637234552.115019514:end  :install-staging     : optee_test_ext
+1637234552.135159753:start:install-target      : optee_test_ext
+1637234552.196947410:end  :install-target      : optee_test_ext
+1637236024.169841340:start:rsync               : optee_client_ext
+1637236024.175353834:end  :rsync               : optee_client_ext
+1637236024.193018667:start:configure           : optee_client_ext
+1637236024.530777272:end  :configure           : optee_client_ext
+1637236024.543790783:start:build               : optee_client_ext
+1637236024.594198414:end  :build               : optee_client_ext
+1637236024.609196438:start:install-staging     : optee_client_ext
+1637236024.635200301:end  :install-staging     : optee_client_ext
+1637236024.649742882:start:install-target      : optee_client_ext
+1637236024.669199086:end  :install-target      : optee_client_ext
+1637236024.751688541:start:rsync               : optee_examples_ext
+1637236024.757148538:end  :rsync               : optee_examples_ext
+1637236024.775135590:start:configure           : optee_examples_ext
+1637236024.972873927:end  :configure           : optee_examples_ext
+1637236024.992860559:start:build               : optee_examples_ext
+1637236025.077955894:end  :build               : optee_examples_ext
+1637236025.090384185:start:install-staging     : optee_examples_ext
+1637236025.118258953:end  :install-staging     : optee_examples_ext
+1637236025.133000437:start:install-target      : optee_examples_ext
+1637236025.165772288:end  :install-target      : optee_examples_ext
+1637236025.240443712:start:rsync               : optee_os_ext
+1637236025.245603435:end  :rsync               : optee_os_ext
+1637236025.262622649:start:configure           : optee_os_ext
+1637236025.635705007:end  :configure           : optee_os_ext
+1637236025.646057339:start:build               : optee_os_ext
+1637236025.664506194:end  :build               : optee_os_ext
+1637236025.675142392:start:install-target      : optee_os_ext
+1637236025.690482746:end  :install-target      : optee_os_ext
+1637236025.749474223:start:rsync               : optee_test_ext
+1637236025.757028009:end  :rsync               : optee_test_ext
+1637236025.776968707:start:configure           : optee_test_ext
+1637236026.213609427:end  :configure           : optee_test_ext
+1637236026.254966912:start:build               : optee_test_ext
+1637236026.548718274:end  :build               : optee_test_ext
+1637236026.567885952:start:install-staging     : optee_test_ext
+1637236026.611692081:end  :install-staging     : optee_test_ext
+1637236026.630558107:start:install-target      : optee_test_ext
+1637236026.693248623:end  :install-target      : optee_test_ext
+1637236138.282233512:start:rsync               : optee_client_ext
+1637236138.287610059:end  :rsync               : optee_client_ext
+1637236138.304858457:start:configure           : optee_client_ext
+1637236138.636669746:end  :configure           : optee_client_ext
+1637236138.647668221:start:build               : optee_client_ext
+1637236138.691922937:end  :build               : optee_client_ext
+1637236138.702305832:start:install-staging     : optee_client_ext
+1637236138.722075119:end  :install-staging     : optee_client_ext
+1637236138.732755237:start:install-target      : optee_client_ext
+1637236138.747349197:end  :install-target      : optee_client_ext
+1637236138.820309053:start:rsync               : optee_examples_ext
+1637236138.826778219:end  :rsync               : optee_examples_ext
+1637236138.848966671:start:configure           : optee_examples_ext
+1637236139.050037773:end  :configure           : optee_examples_ext
+1637236139.070559349:start:build               : optee_examples_ext
+1637236139.152571521:end  :build               : optee_examples_ext
+1637236139.164219212:start:install-staging     : optee_examples_ext
+1637236139.186112171:end  :install-staging     : optee_examples_ext
+1637236139.199240536:start:install-target      : optee_examples_ext
+1637236139.225139633:end  :install-target      : optee_examples_ext
+1637236139.296206905:start:rsync               : optee_os_ext
+1637236139.301786276:end  :rsync               : optee_os_ext
+1637236139.321855159:start:configure           : optee_os_ext
+1637236139.707861944:end  :configure           : optee_os_ext
+1637236139.718237333:start:build               : optee_os_ext
+1637236139.737116224:end  :build               : optee_os_ext
+1637236139.747453687:start:install-target      : optee_os_ext
+1637236139.762979920:end  :install-target      : optee_os_ext
+1637236139.820040824:start:rsync               : optee_test_ext
+1637236139.826805245:end  :rsync               : optee_test_ext
+1637236139.843719011:start:configure           : optee_test_ext
+1637236140.285738836:end  :configure           : optee_test_ext
+1637236140.324893149:start:build               : optee_test_ext
+1637236140.608058495:end  :build               : optee_test_ext
+1637236140.627032767:start:install-staging     : optee_test_ext
+1637236140.666584121:end  :install-staging     : optee_test_ext
+1637236140.682291859:start:install-target      : optee_test_ext
+1637236140.739884561:end  :install-target      : optee_test_ext
+1637236334.870146032:start:rsync               : optee_client_ext
+1637236334.875724214:end  :rsync               : optee_client_ext
+1637236334.893518446:start:configure           : optee_client_ext
+1637236335.206093816:end  :configure           : optee_client_ext
+1637236335.217162683:start:build               : optee_client_ext
+1637236335.259472150:end  :build               : optee_client_ext
+1637236335.270768946:start:install-staging     : optee_client_ext
+1637236335.289942954:end  :install-staging     : optee_client_ext
+1637236335.301129976:start:install-target      : optee_client_ext
+1637236335.315330998:end  :install-target      : optee_client_ext
+1637236335.388074232:start:rsync               : optee_examples_ext
+1637236335.393867934:end  :rsync               : optee_examples_ext
+1637236335.413100701:start:configure           : optee_examples_ext
+1637236335.618859734:end  :configure           : optee_examples_ext
+1637236335.639517412:start:build               : optee_examples_ext
+1637236335.729436484:end  :build               : optee_examples_ext
+1637236335.741912680:start:install-staging     : optee_examples_ext
+1637236335.770608092:end  :install-staging     : optee_examples_ext
+1637236335.785369697:start:install-target      : optee_examples_ext
+1637236335.818205796:end  :install-target      : optee_examples_ext
+1637236335.892746887:start:rsync               : optee_os_ext
+1637236335.897977801:end  :rsync               : optee_os_ext
+1637236335.916133484:start:configure           : optee_os_ext
+1637236336.281073080:end  :configure           : optee_os_ext
+1637236336.292348106:start:build               : optee_os_ext
+1637236336.311349440:end  :build               : optee_os_ext
+1637236336.321867182:start:install-target      : optee_os_ext
+1637236336.338242540:end  :install-target      : optee_os_ext
+1637236336.397623319:start:rsync               : optee_test_ext
+1637236336.404610948:end  :rsync               : optee_test_ext
+1637236336.422840727:start:configure           : optee_test_ext
+1637236336.902359897:end  :configure           : optee_test_ext
+1637236336.942449136:start:build               : optee_test_ext
+1637236337.236657508:end  :build               : optee_test_ext
+1637236337.259253881:start:install-staging     : optee_test_ext
+1637236337.305748890:end  :install-staging     : optee_test_ext
+1637236337.329572824:start:install-target      : optee_test_ext
+1637236337.382645770:end  :install-target      : optee_test_ext
+1637236413.054563534:start:rsync               : optee_client_ext
+1637236413.060095420:end  :rsync               : optee_client_ext
+1637236413.077662993:start:configure           : optee_client_ext
+1637236413.410540031:end  :configure           : optee_client_ext
+1637236413.422638361:start:build               : optee_client_ext
+1637236413.480120912:end  :build               : optee_client_ext
+1637236413.494601590:start:install-staging     : optee_client_ext
+1637236413.523035038:end  :install-staging     : optee_client_ext
+1637236413.537830548:start:install-target      : optee_client_ext
+1637236413.556607167:end  :install-target      : optee_client_ext
+1637236413.628642172:start:rsync               : optee_examples_ext
+1637236413.635161753:end  :rsync               : optee_examples_ext
+1637236413.656399761:start:configure           : optee_examples_ext
+1637236413.856888436:end  :configure           : optee_examples_ext
+1637236413.877709588:start:build               : optee_examples_ext
+1637236413.961983469:end  :build               : optee_examples_ext
+1637236413.974305469:start:install-staging     : optee_examples_ext
+1637236414.000879728:end  :install-staging     : optee_examples_ext
+1637236414.015665795:start:install-target      : optee_examples_ext
+1637236414.051648423:end  :install-target      : optee_examples_ext
+1637236414.125462857:start:rsync               : optee_os_ext
+1637236414.130505575:end  :rsync               : optee_os_ext
+1637236414.149415905:start:configure           : optee_os_ext
+1637236414.525427206:end  :configure           : optee_os_ext
+1637236414.535885277:start:build               : optee_os_ext
+1637236414.555069965:end  :build               : optee_os_ext
+1637236414.565542088:start:install-target      : optee_os_ext
+1637236414.581242752:end  :install-target      : optee_os_ext
+1637236414.639507255:start:rsync               : optee_test_ext
+1637236414.646151801:end  :rsync               : optee_test_ext
+1637236414.663012482:start:configure           : optee_test_ext
+1637236415.134422734:end  :configure           : optee_test_ext
+1637236415.173954102:start:build               : optee_test_ext
+1637236415.465386265:end  :build               : optee_test_ext
+1637236415.488607813:start:install-staging     : optee_test_ext
+1637236415.544155250:end  :install-staging     : optee_test_ext
+1637236415.573723187:start:install-target      : optee_test_ext
+1637236415.631810408:end  :install-target      : optee_test_ext
+1637236633.863005574:start:rsync               : optee_client_ext
+1637236633.868589241:end  :rsync               : optee_client_ext
+1637236633.885353889:start:configure           : optee_client_ext
+1637236634.206800576:end  :configure           : optee_client_ext
+1637236634.219481881:start:build               : optee_client_ext
+1637236634.278319789:end  :build               : optee_client_ext
+1637236634.292345266:start:install-staging     : optee_client_ext
+1637236634.324048964:end  :install-staging     : optee_client_ext
+1637236634.339395691:start:install-target      : optee_client_ext
+1637236634.361723147:end  :install-target      : optee_client_ext
+1637236634.433556036:start:rsync               : optee_examples_ext
+1637236634.438979394:end  :rsync               : optee_examples_ext
+1637236634.457797504:start:configure           : optee_examples_ext
+1637236634.653958800:end  :configure           : optee_examples_ext
+1637236634.674297375:start:build               : optee_examples_ext
+1637236634.760367888:end  :build               : optee_examples_ext
+1637236634.772268864:start:install-staging     : optee_examples_ext
+1637236634.798417375:end  :install-staging     : optee_examples_ext
+1637236634.812766016:start:install-target      : optee_examples_ext
+1637236634.842592108:end  :install-target      : optee_examples_ext
+1637236634.917033964:start:rsync               : optee_os_ext
+1637236634.922156083:end  :rsync               : optee_os_ext
+1637236634.939233456:start:configure           : optee_os_ext
+1637236635.328335896:end  :configure           : optee_os_ext
+1637236635.338812912:start:build               : optee_os_ext
+1637236635.357709583:end  :build               : optee_os_ext
+1637236635.368018707:start:install-target      : optee_os_ext
+1637236635.382659759:end  :install-target      : optee_os_ext
+1637236635.439951752:start:rsync               : optee_test_ext
+1637236635.446807139:end  :rsync               : optee_test_ext
+1637236635.464035849:start:configure           : optee_test_ext
+1637236635.950687176:end  :configure           : optee_test_ext
+1637236635.989277716:start:build               : optee_test_ext
+1637236636.274631845:end  :build               : optee_test_ext
+1637236636.287467447:start:install-staging     : optee_test_ext
+1637236636.314846206:end  :install-staging     : optee_test_ext
+1637236636.330203905:start:install-target      : optee_test_ext
+1637236636.394225788:end  :install-target      : optee_test_ext
+1637236790.778182650:start:rsync               : optee_client_ext
+1637236790.783574566:end  :rsync               : optee_client_ext
+1637236790.800529134:start:configure           : optee_client_ext
+1637236791.141849086:end  :configure           : optee_client_ext
+1637236791.153387635:start:build               : optee_client_ext
+1637236791.198396754:end  :build               : optee_client_ext
+1637236791.209899098:start:install-staging     : optee_client_ext
+1637236791.230746788:end  :install-staging     : optee_client_ext
+1637236791.242668653:start:install-target      : optee_client_ext
+1637236791.258225608:end  :install-target      : optee_client_ext
+1637236791.331644081:start:rsync               : optee_examples_ext
+1637236791.338013636:end  :rsync               : optee_examples_ext
+1637236791.359547073:start:configure           : optee_examples_ext
+1637236791.549185536:end  :configure           : optee_examples_ext
+1637236791.571087841:start:build               : optee_examples_ext
+1637236791.654370934:end  :build               : optee_examples_ext
+1637236791.666761067:start:install-staging     : optee_examples_ext
+1637236791.695659737:end  :install-staging     : optee_examples_ext
+1637236791.710085540:start:install-target      : optee_examples_ext
+1637236791.746303177:end  :install-target      : optee_examples_ext
+1637236791.821267111:start:rsync               : optee_os_ext
+1637236791.826379055:end  :rsync               : optee_os_ext
+1637236791.843406855:start:configure           : optee_os_ext
+1637236792.206071346:end  :configure           : optee_os_ext
+1637236792.216470391:start:build               : optee_os_ext
+1637236792.235267885:end  :build               : optee_os_ext
+1637236792.245550175:start:install-target      : optee_os_ext
+1637236792.261096851:end  :install-target      : optee_os_ext
+1637236792.321696230:start:rsync               : optee_test_ext
+1637236792.328419080:end  :rsync               : optee_test_ext
+1637236792.345599379:start:configure           : optee_test_ext
+1637236792.810310277:end  :configure           : optee_test_ext
+1637236792.850520033:start:build               : optee_test_ext
+1637236793.138962463:end  :build               : optee_test_ext
+1637236793.153155768:start:install-staging     : optee_test_ext
+1637236793.179648158:end  :install-staging     : optee_test_ext
+1637236793.196141965:start:install-target      : optee_test_ext
+1637236793.253353944:end  :install-target      : optee_test_ext
+1637236832.791324421:start:rsync               : optee_client_ext
+1637236832.796913107:end  :rsync               : optee_client_ext
+1637236832.814591452:start:configure           : optee_client_ext
+1637236833.256978185:end  :configure           : optee_client_ext
+1637236833.272547493:start:build               : optee_client_ext
+1637236833.350535904:end  :build               : optee_client_ext
+1637236833.367290738:start:install-staging     : optee_client_ext
+1637236833.404230179:end  :install-staging     : optee_client_ext
+1637236833.422934279:start:install-target      : optee_client_ext
+1637236833.454511105:end  :install-target      : optee_client_ext
+1637236833.553056988:start:rsync               : optee_examples_ext
+1637236833.558359707:end  :rsync               : optee_examples_ext
+1637236833.576266061:start:configure           : optee_examples_ext
+1637236833.773342967:end  :configure           : optee_examples_ext
+1637236833.793608261:start:build               : optee_examples_ext
+1637236833.886330959:end  :build               : optee_examples_ext
+1637236833.905960999:start:install-staging     : optee_examples_ext
+1637236833.960115297:end  :install-staging     : optee_examples_ext
+1637236833.977494786:start:install-target      : optee_examples_ext
+1637236834.011032282:end  :install-target      : optee_examples_ext
+1637236834.082496397:start:rsync               : optee_os_ext
+1637236834.087481445:end  :rsync               : optee_os_ext
+1637236834.104942764:start:configure           : optee_os_ext
+1637236834.477587151:end  :configure           : optee_os_ext
+1637236834.488826466:start:build               : optee_os_ext
+1637236834.507110564:end  :build               : optee_os_ext
+1637236834.517415061:start:install-target      : optee_os_ext
+1637236834.532996222:end  :install-target      : optee_os_ext
+1637236834.589509480:start:rsync               : optee_test_ext
+1637236834.596057752:end  :rsync               : optee_test_ext
+1637236834.614039396:start:configure           : optee_test_ext
+1637236835.220205777:end  :configure           : optee_test_ext
+1637236835.259295954:start:build               : optee_test_ext
+1637236835.579972523:end  :build               : optee_test_ext
+1637236835.594776843:start:install-staging     : optee_test_ext
+1637236835.623472682:end  :install-staging     : optee_test_ext
+1637236835.640265765:start:install-target      : optee_test_ext
+1637236835.692048984:end  :install-target      : optee_test_ext
+1637236904.838385081:start:rsync               : optee_client_ext
+1637236904.844070124:end  :rsync               : optee_client_ext
+1637236904.860996766:start:configure           : optee_client_ext
+1637236905.246316253:end  :configure           : optee_client_ext
+1637236905.258850267:start:build               : optee_client_ext
+1637236905.314488688:end  :build               : optee_client_ext
+1637236905.327261815:start:install-staging     : optee_client_ext
+1637236905.352562475:end  :install-staging     : optee_client_ext
+1637236905.365633123:start:install-target      : optee_client_ext
+1637236905.384399663:end  :install-target      : optee_client_ext
+1637236905.464035829:start:rsync               : optee_examples_ext
+1637236905.469838005:end  :rsync               : optee_examples_ext
+1637236905.487886404:start:configure           : optee_examples_ext
+1637236905.663688695:end  :configure           : optee_examples_ext
+1637236905.685382151:start:build               : optee_examples_ext
+1637236905.773522227:end  :build               : optee_examples_ext
+1637236905.785500427:start:install-staging     : optee_examples_ext
+1637236905.810534596:end  :install-staging     : optee_examples_ext
+1637236905.823205473:start:install-target      : optee_examples_ext
+1637236905.848743842:end  :install-target      : optee_examples_ext
+1637236905.916177343:start:rsync               : optee_os_ext
+1637236905.921558590:end  :rsync               : optee_os_ext
+1637236905.939578088:start:configure           : optee_os_ext
+1637236906.326368543:end  :configure           : optee_os_ext
+1637236906.336916666:start:build               : optee_os_ext
+1637236906.356211672:end  :build               : optee_os_ext
+1637236906.366702975:start:install-target      : optee_os_ext
+1637236906.382991785:end  :install-target      : optee_os_ext
+1637236906.444381623:start:rsync               : optee_test_ext
+1637236906.450946522:end  :rsync               : optee_test_ext
+1637236906.468849686:start:configure           : optee_test_ext
+1637236906.943285116:end  :configure           : optee_test_ext
+1637236906.983660121:start:build               : optee_test_ext
+1637236907.257165161:end  :build               : optee_test_ext
+1637236907.272212841:start:install-staging     : optee_test_ext
+1637236907.307427005:end  :install-staging     : optee_test_ext
+1637236907.325384204:start:install-target      : optee_test_ext
+1637236907.385592997:end  :install-target      : optee_test_ext
+1637236970.189918219:start:rsync               : optee_client_ext
+1637236970.195375785:end  :rsync               : optee_client_ext
+1637236970.212855028:start:configure           : optee_client_ext
+1637236970.545549028:end  :configure           : optee_client_ext
+1637236970.556630195:start:build               : optee_client_ext
+1637236970.606912279:end  :build               : optee_client_ext
+1637236970.618728230:start:install-staging     : optee_client_ext
+1637236970.642952967:end  :install-staging     : optee_client_ext
+1637236970.655503251:start:install-target      : optee_client_ext
+1637236970.672648604:end  :install-target      : optee_client_ext
+1637236970.744815348:start:rsync               : optee_examples_ext
+1637236970.750559270:end  :rsync               : optee_examples_ext
+1637236970.770640798:start:configure           : optee_examples_ext
+1637236970.960983826:end  :configure           : optee_examples_ext
+1637236970.981472767:start:build               : optee_examples_ext
+1637236971.069069644:end  :build               : optee_examples_ext
+1637236971.080754250:start:install-staging     : optee_examples_ext
+1637236971.106701670:end  :install-staging     : optee_examples_ext
+1637236971.120182793:start:install-target      : optee_examples_ext
+1637236971.150365606:end  :install-target      : optee_examples_ext
+1637236971.226408094:start:rsync               : optee_os_ext
+1637236971.232058680:end  :rsync               : optee_os_ext
+1637236971.251045950:start:configure           : optee_os_ext
+1637236971.626291477:end  :configure           : optee_os_ext
+1637236971.636529187:start:build               : optee_os_ext
+1637236971.655377274:end  :build               : optee_os_ext
+1637236971.665575792:start:install-target      : optee_os_ext
+1637236971.680616103:end  :install-target      : optee_os_ext
+1637236971.738626182:start:rsync               : optee_test_ext
+1637236971.745389096:end  :rsync               : optee_test_ext
+1637236971.762304185:start:configure           : optee_test_ext
+1637236972.247423628:end  :configure           : optee_test_ext
+1637236972.286441064:start:build               : optee_test_ext
+1637236972.552607866:end  :build               : optee_test_ext
+1637236972.567902118:start:install-staging     : optee_test_ext
+1637236972.600737855:end  :install-staging     : optee_test_ext
+1637236972.619407765:start:install-target      : optee_test_ext
+1637236972.681993564:end  :install-target      : optee_test_ext
+1637236994.342696086:start:rsync               : optee_client_ext
+1637236994.348414175:end  :rsync               : optee_client_ext
+1637236994.365526161:start:configure           : optee_client_ext
+1637236994.716283554:end  :configure           : optee_client_ext
+1637236994.728566268:start:build               : optee_client_ext
+1637236994.780741333:end  :build               : optee_client_ext
+1637236994.791991058:start:install-staging     : optee_client_ext
+1637236994.812708463:end  :install-staging     : optee_client_ext
+1637236994.825507716:start:install-target      : optee_client_ext
+1637236994.840353554:end  :install-target      : optee_client_ext
+1637236994.913493011:start:rsync               : optee_examples_ext
+1637236994.919097676:end  :rsync               : optee_examples_ext
+1637236994.938052506:start:configure           : optee_examples_ext
+1637236995.111940650:end  :configure           : optee_examples_ext
+1637236995.133034901:start:build               : optee_examples_ext
+1637236995.219425155:end  :build               : optee_examples_ext
+1637236995.231886559:start:install-staging     : optee_examples_ext
+1637236995.254152321:end  :install-staging     : optee_examples_ext
+1637236995.266752485:start:install-target      : optee_examples_ext
+1637236995.292389740:end  :install-target      : optee_examples_ext
+1637236995.361428624:start:rsync               : optee_os_ext
+1637236995.366400054:end  :rsync               : optee_os_ext
+1637236995.383621684:start:configure           : optee_os_ext
+1637236995.739032050:end  :configure           : optee_os_ext
+1637236995.750304816:start:build               : optee_os_ext
+1637236995.769042393:end  :build               : optee_os_ext
+1637236995.779296999:start:install-target      : optee_os_ext
+1637236995.795249452:end  :install-target      : optee_os_ext
+1637236995.852249586:start:rsync               : optee_test_ext
+1637236995.858819240:end  :rsync               : optee_test_ext
+1637236995.877806215:start:configure           : optee_test_ext
+1637236996.308323764:end  :configure           : optee_test_ext
+1637236996.347292987:start:build               : optee_test_ext
+1637236996.550386593:end  :build               : optee_test_ext
+1637236996.564648832:start:install-staging     : optee_test_ext
+1637236996.594596268:end  :install-staging     : optee_test_ext
+1637236996.614747198:start:install-target      : optee_test_ext
+1637236996.670977120:end  :install-target      : optee_test_ext
+1637237127.569945735:start:rsync               : optee_client_ext
+1637237127.575397249:end  :rsync               : optee_client_ext
+1637237127.593424080:start:configure           : optee_client_ext
+1637237128.017924599:end  :configure           : optee_client_ext
+1637237128.029416463:start:build               : optee_client_ext
+1637237128.076067558:end  :build               : optee_client_ext
+1637237128.087315054:start:install-staging     : optee_client_ext
+1637237128.108881898:end  :install-staging     : optee_client_ext
+1637237128.119758856:start:install-target      : optee_client_ext
+1637237128.134524040:end  :install-target      : optee_client_ext
+1637237128.206293059:start:rsync               : optee_examples_ext
+1637237128.211653519:end  :rsync               : optee_examples_ext
+1637237128.229831587:start:configure           : optee_examples_ext
+1637237128.456415065:end  :configure           : optee_examples_ext
+1637237128.476739825:start:build               : optee_examples_ext
+1637237128.562553299:end  :build               : optee_examples_ext
+1637237128.578859174:start:install-staging     : optee_examples_ext
+1637237128.609679660:end  :install-staging     : optee_examples_ext
+1637237128.625100243:start:install-target      : optee_examples_ext
+1637237128.670156422:end  :install-target      : optee_examples_ext
+1637237128.761416553:start:rsync               : optee_os_ext
+1637237128.766450189:end  :rsync               : optee_os_ext
+1637237128.783545092:start:configure           : optee_os_ext
+1637237129.175544341:end  :configure           : optee_os_ext
+1637237129.186553365:start:build               : optee_os_ext
+1637237129.204624775:end  :build               : optee_os_ext
+1637237129.215834427:start:install-target      : optee_os_ext
+1637237129.231355629:end  :install-target      : optee_os_ext
+1637237129.287605750:start:rsync               : optee_test_ext
+1637237129.294914674:end  :rsync               : optee_test_ext
+1637237129.314663826:start:configure           : optee_test_ext
+1637237129.797365378:end  :configure           : optee_test_ext
+1637237129.837567181:start:build               : optee_test_ext
+1637237130.256018594:end  :build               : optee_test_ext
+1637237130.267952476:start:install-staging     : optee_test_ext
+1637237130.289009936:end  :install-staging     : optee_test_ext
+1637237130.302444905:start:install-target      : optee_test_ext
+1637237130.348722086:end  :install-target      : optee_test_ext
+1637237202.186824431:start:rsync               : optee_client_ext
+1637237202.192545943:end  :rsync               : optee_client_ext
+1637237202.210791942:start:configure           : optee_client_ext
+1637237202.563000238:end  :configure           : optee_client_ext
+1637237202.575240718:start:build               : optee_client_ext
+1637237202.628965034:end  :build               : optee_client_ext
+1637237202.640679711:start:install-staging     : optee_client_ext
+1637237202.664809792:end  :install-staging     : optee_client_ext
+1637237202.677075915:start:install-target      : optee_client_ext
+1637237202.693920018:end  :install-target      : optee_client_ext
+1637237202.765522247:start:rsync               : optee_examples_ext
+1637237202.771098602:end  :rsync               : optee_examples_ext
+1637237202.790603379:start:configure           : optee_examples_ext
+1637237202.968753741:end  :configure           : optee_examples_ext
+1637237202.990320728:start:build               : optee_examples_ext
+1637237203.072618566:end  :build               : optee_examples_ext
+1637237203.083264326:start:install-staging     : optee_examples_ext
+1637237203.105760839:end  :install-staging     : optee_examples_ext
+1637237203.118029415:start:install-target      : optee_examples_ext
+1637237203.143109810:end  :install-target      : optee_examples_ext
+1637237203.211912379:start:rsync               : optee_os_ext
+1637237203.216909223:end  :rsync               : optee_os_ext
+1637237203.234869110:start:configure           : optee_os_ext
+1637237203.614887311:end  :configure           : optee_os_ext
+1637237203.625428183:start:build               : optee_os_ext
+1637237203.644720612:end  :build               : optee_os_ext
+1637237203.655463364:start:install-target      : optee_os_ext
+1637237203.671823870:end  :install-target      : optee_os_ext
+1637237203.729190606:start:rsync               : optee_test_ext
+1637237203.735928619:end  :rsync               : optee_test_ext
+1637237203.754060321:start:configure           : optee_test_ext
+1637237204.203699929:end  :configure           : optee_test_ext
+1637237204.243146332:start:build               : optee_test_ext
+1637237204.466543769:end  :build               : optee_test_ext
+1637237204.481458092:start:install-staging     : optee_test_ext
+1637237204.502918510:end  :install-staging     : optee_test_ext
+1637237204.515111444:start:install-target      : optee_test_ext
+1637237204.554819695:end  :install-target      : optee_test_ext
+1637237232.110263491:start:rsync               : optee_client_ext
+1637237232.115903705:end  :rsync               : optee_client_ext
+1637237232.135187111:start:configure           : optee_client_ext
+1637237232.476903350:end  :configure           : optee_client_ext
+1637237232.489735601:start:build               : optee_client_ext
+1637237232.548670368:end  :build               : optee_client_ext
+1637237232.561307561:start:install-staging     : optee_client_ext
+1637237232.583952215:end  :install-staging     : optee_client_ext
+1637237232.596603072:start:install-target      : optee_client_ext
+1637237232.613541600:end  :install-target      : optee_client_ext
+1637237232.688964854:start:rsync               : optee_examples_ext
+1637237232.694362992:end  :rsync               : optee_examples_ext
+1637237232.712365856:start:configure           : optee_examples_ext
+1637237232.902727584:end  :configure           : optee_examples_ext
+1637237232.922809558:start:build               : optee_examples_ext
+1637237233.009149223:end  :build               : optee_examples_ext
+1637237233.021070272:start:install-staging     : optee_examples_ext
+1637237233.045682017:end  :install-staging     : optee_examples_ext
+1637237233.058736584:start:install-target      : optee_examples_ext
+1637237233.085329205:end  :install-target      : optee_examples_ext
+1637237233.159810133:start:rsync               : optee_os_ext
+1637237233.165113948:end  :rsync               : optee_os_ext
+1637237233.184911911:start:configure           : optee_os_ext
+1637237233.550511382:end  :configure           : optee_os_ext
+1637237233.560687584:start:build               : optee_os_ext
+1637237233.579664561:end  :build               : optee_os_ext
+1637237233.589897278:start:install-target      : optee_os_ext
+1637237233.604528698:end  :install-target      : optee_os_ext
+1637237233.661737622:start:rsync               : optee_test_ext
+1637237233.668413844:end  :rsync               : optee_test_ext
+1637237233.685450820:start:configure           : optee_test_ext
+1637237234.115652945:end  :configure           : optee_test_ext
+1637237234.155922146:start:build               : optee_test_ext
+1637237234.418048813:end  :build               : optee_test_ext
+1637237234.433940029:start:install-staging     : optee_test_ext
+1637237234.466704714:end  :install-staging     : optee_test_ext
+1637237234.484661100:start:install-target      : optee_test_ext
+1637237234.547979764:end  :install-target      : optee_test_ext
+1637238087.450280171:start:rsync               : optee_client_ext
+1637238087.455590518:end  :rsync               : optee_client_ext
+1637238087.473541961:start:configure           : optee_client_ext
+1637238087.785532442:end  :configure           : optee_client_ext
+1637238087.797448144:start:build               : optee_client_ext
+1637238087.853158908:end  :build               : optee_client_ext
+1637238087.867113404:start:install-staging     : optee_client_ext
+1637238087.894650867:end  :install-staging     : optee_client_ext
+1637238087.908345325:start:install-target      : optee_client_ext
+1637238087.925832331:end  :install-target      : optee_client_ext
+1637238087.998787557:start:rsync               : optee_examples_ext
+1637238088.004551614:end  :rsync               : optee_examples_ext
+1637238088.021891742:start:configure           : optee_examples_ext
+1637238088.221299795:end  :configure           : optee_examples_ext
+1637238088.242625502:start:build               : optee_examples_ext
+1637238088.327425968:end  :build               : optee_examples_ext
+1637238088.340217572:start:install-staging     : optee_examples_ext
+1637238088.367160586:end  :install-staging     : optee_examples_ext
+1637238088.380864281:start:install-target      : optee_examples_ext
+1637238088.411856309:end  :install-target      : optee_examples_ext
+1637238088.485585288:start:rsync               : optee_os_ext
+1637238088.490463376:end  :rsync               : optee_os_ext
+1637238088.508526370:start:configure           : optee_os_ext
+1637238088.873837138:end  :configure           : optee_os_ext
+1637238088.884454384:start:build               : optee_os_ext
+1637238088.902984091:end  :build               : optee_os_ext
+1637238088.913225271:start:install-target      : optee_os_ext
+1637238088.928923340:end  :install-target      : optee_os_ext
+1637238088.985735120:start:rsync               : optee_test_ext
+1637238088.992560481:end  :rsync               : optee_test_ext
+1637238089.012701689:start:configure           : optee_test_ext
+1637238089.481009593:end  :configure           : optee_test_ext
+1637238089.520368324:start:build               : optee_test_ext
+1637238089.779611084:end  :build               : optee_test_ext
+1637238089.793077691:start:install-staging     : optee_test_ext
+1637238089.818103111:end  :install-staging     : optee_test_ext
+1637238089.833027091:start:install-target      : optee_test_ext
+1637238089.890822762:end  :install-target      : optee_test_ext
+1637239503.358744676:start:rsync               : optee_client_ext
+1637239503.364308581:end  :rsync               : optee_client_ext
+1637239503.381404482:start:configure           : optee_client_ext
+1637239503.694081165:end  :configure           : optee_client_ext
+1637239503.704793233:start:build               : optee_client_ext
+1637239503.747622493:end  :build               : optee_client_ext
+1637239503.759091677:start:install-staging     : optee_client_ext
+1637239503.781821203:end  :install-staging     : optee_client_ext
+1637239503.793931575:start:install-target      : optee_client_ext
+1637239503.811612809:end  :install-target      : optee_client_ext
+1637239503.890135124:start:rsync               : optee_examples_ext
+1637239503.895672213:end  :rsync               : optee_examples_ext
+1637239503.914333645:start:configure           : optee_examples_ext
+1637239504.105105924:end  :configure           : optee_examples_ext
+1637239504.126335388:start:build               : optee_examples_ext
+1637239504.212892567:end  :build               : optee_examples_ext
+1637239504.224291654:start:install-staging     : optee_examples_ext
+1637239504.245214384:end  :install-staging     : optee_examples_ext
+1637239504.256294824:start:install-target      : optee_examples_ext
+1637239504.279163584:end  :install-target      : optee_examples_ext
+1637239504.347224700:start:rsync               : optee_os_ext
+1637239504.352486857:end  :rsync               : optee_os_ext
+1637239504.370000811:start:configure           : optee_os_ext
+1637239504.776423760:end  :configure           : optee_os_ext
+1637239504.787357478:start:build               : optee_os_ext
+1637239504.805802411:end  :build               : optee_os_ext
+1637239504.816488017:start:install-target      : optee_os_ext
+1637239504.832485922:end  :install-target      : optee_os_ext
+1637239504.888789607:start:rsync               : optee_test_ext
+1637239504.895175965:end  :rsync               : optee_test_ext
+1637239504.912808289:start:configure           : optee_test_ext
+1637239505.342814212:end  :configure           : optee_test_ext
+1637239505.382415722:start:build               : optee_test_ext
+1637239505.740164974:end  :build               : optee_test_ext
+1637239505.759162580:start:install-staging     : optee_test_ext
+1637239505.800320864:end  :install-staging     : optee_test_ext
+1637239505.822505472:start:install-target      : optee_test_ext
+1637239505.903779086:end  :install-target      : optee_test_ext
+1637239621.520592492:start:rsync               : optee_client_ext
+1637239621.526225475:end  :rsync               : optee_client_ext
+1637239621.542861691:start:configure           : optee_client_ext
+1637239621.999453732:end  :configure           : optee_client_ext
+1637239622.014020651:start:build               : optee_client_ext
+1637239622.094483176:end  :build               : optee_client_ext
+1637239622.115689488:start:install-staging     : optee_client_ext
+1637239622.159263640:end  :install-staging     : optee_client_ext
+1637239622.173584907:start:install-target      : optee_client_ext
+1637239622.187671413:end  :install-target      : optee_client_ext
+1637239622.259983089:start:rsync               : optee_examples_ext
+1637239622.265676064:end  :rsync               : optee_examples_ext
+1637239622.282749235:start:configure           : optee_examples_ext
+1637239622.483142460:end  :configure           : optee_examples_ext
+1637239622.503824563:start:build               : optee_examples_ext
+1637239622.599665026:end  :build               : optee_examples_ext
+1637239622.615145165:start:install-staging     : optee_examples_ext
+1637239622.650030833:end  :install-staging     : optee_examples_ext
+1637239622.666406007:start:install-target      : optee_examples_ext
+1637239622.706081287:end  :install-target      : optee_examples_ext
+1637239622.796991907:start:rsync               : optee_os_ext
+1637239622.802226902:end  :rsync               : optee_os_ext
+1637239622.820372695:start:configure           : optee_os_ext
+1637239623.192568944:end  :configure           : optee_os_ext
+1637239623.202945862:start:build               : optee_os_ext
+1637239623.220532835:end  :build               : optee_os_ext
+1637239623.230857483:start:install-target      : optee_os_ext
+1637239623.246404826:end  :install-target      : optee_os_ext
+1637239623.305667941:start:rsync               : optee_test_ext
+1637239623.312348736:end  :rsync               : optee_test_ext
+1637239623.330425851:start:configure           : optee_test_ext
+1637239623.948994905:end  :configure           : optee_test_ext
+1637239623.992368358:start:build               : optee_test_ext
+1637239624.302230904:end  :build               : optee_test_ext
+1637239624.317224275:start:install-staging     : optee_test_ext
+1637239624.346377043:end  :install-staging     : optee_test_ext
+1637239624.367186354:start:install-target      : optee_test_ext
+1637239624.430921016:end  :install-target      : optee_test_ext

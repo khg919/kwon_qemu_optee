@@ -1,0 +1,30 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+[remote "github"]
+	url = https://github.com/qemu/qemu.git
+	projectname = qemu/qemu.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[gc]
+	autoDetach = false
+[submodule "capstone"]
+	active = true
+	url = https://gitlab.com/qemu-project/capstone.git
+[submodule "dtc"]
+	active = true
+	url = https://gitlab.com/qemu-project/dtc.git
+[submodule "slirp"]
+	active = true
+	url = https://gitlab.com/qemu-project/libslirp.git
+[submodule "tests/fp/berkeley-softfloat-3"]
+	active = true
+	url = https://gitlab.com/qemu-project/berkeley-softfloat-3.git
+[submodule "tests/fp/berkeley-testfloat-3"]
+	active = true
+	url = https://gitlab.com/qemu-project/berkeley-testfloat-3.git
+[submodule "ui/keycodemapdb"]
+	active = true
+	url = https://gitlab.com/qemu-project/keycodemapdb.git

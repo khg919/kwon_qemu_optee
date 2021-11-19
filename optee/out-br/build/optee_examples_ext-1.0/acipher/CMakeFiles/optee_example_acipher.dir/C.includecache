@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/acipher/host/main.c
+err.h
+-
+inttypes.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+tee_client_api.h
+-
+acipher_ta.h
+-
+
+acipher/ta/include/acipher_ta.h
+

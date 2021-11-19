@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/aes/host/main.c
+err.h
+-
+stdio.h
+-
+string.h
+-
+tee_client_api.h
+-
+aes_ta.h
+-
+
+aes/ta/include/aes_ta.h
+

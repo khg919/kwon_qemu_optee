@@ -1,0 +1,26 @@
+{
+  "core.repositoryformatversion": [
+    "0"
+  ],
+  "core.filemode": [
+    "true"
+  ],
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ],
+  "filter.lfs.process": [
+    "git-lfs filter-process --skip"
+  ],
+  "remote.github.url": [
+    "https://github.com/qemu/qemu.git"
+  ],
+  "remote.github.projectname": [
+    "qemu/qemu.git"
+  ],
+  "remote.github.fetch": [
+    "+refs/heads/*:refs/remotes/github/*"
+  ],
+  "gc.autodetach": [
+    "false"
+  ]
+}

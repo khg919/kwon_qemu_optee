@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qemu-sgx/devel/optee/out-br/build/optee_examples_ext-1.0/random/host/main.c
+err.h
+-
+stdio.h
+-
+string.h
+-
+tee_client_api.h
+-
+random_ta.h
+-
+
+random/ta/include/random_ta.h
+

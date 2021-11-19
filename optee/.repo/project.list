@@ -1,0 +1,11 @@
+build
+buildroot
+linux
+optee_benchmark
+optee_client
+optee_examples
+optee_os
+optee_test
+qemu
+trusted-firmware-a
+u-boot

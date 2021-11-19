@@ -1,0 +1,5 @@
+/home/qemu-sgx/devel/optee/buildroot/package/fakeroot/0001-skip-doc-subdirs.patch
+/home/qemu-sgx/devel/optee/buildroot/package/fakeroot/0002-libfakeroot.c-define-_STAT_VER-if-not-already-define.patch
+/home/qemu-sgx/devel/optee/buildroot/package/fakeroot/0003-libfakeroot.c-add-wrappers-for-new-glibc-2.33-symbol.patch
+/home/qemu-sgx/devel/optee/buildroot/package/fakeroot/0004-configure.ac-fix-__xmknod-at-pointer-argument.patch
+/home/qemu-sgx/devel/optee/buildroot/package/fakeroot/0005-fix-build-regression-on-macOS.patch

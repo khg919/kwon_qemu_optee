@@ -1,0 +1,2 @@
+set sysroot /home/qemu-sgx/devel/optee/out-br/host/arm-buildroot-linux-gnueabihf/sysroot
+add-auto-load-safe-path /home/qemu-sgx/devel/optee/out-br/host/arm-buildroot-linux-gnueabihf/sysroot

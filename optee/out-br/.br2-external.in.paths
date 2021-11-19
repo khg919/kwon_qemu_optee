@@ -1,0 +1,8 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+config BR2_EXTERNAL_OPTEE_PATH
+	string
+	default "/home/qemu-sgx/devel/optee/build/br-ext"
+

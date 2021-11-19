@@ -1,0 +1,2 @@
+host-ccache,./bin/ccache
+host-ccache,./share/man/man1/ccache.1

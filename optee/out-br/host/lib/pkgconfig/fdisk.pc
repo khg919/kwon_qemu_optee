@@ -1,0 +1,11 @@
+prefix=/home/qemu-sgx/devel/optee/out-br/host
+exec_prefix=/home/qemu-sgx/devel/optee/out-br/host
+libdir=/home/qemu-sgx/devel/optee/out-br/host/lib
+includedir=/home/qemu-sgx/devel/optee/out-br/host/include
+
+Name: fdisk
+Description: fdisk library
+Version: 2.36.2
+Requires.private: uuid blkid
+Cflags: -I${includedir}/libfdisk
+Libs: -L${libdir} -lfdisk

@@ -1,0 +1,7 @@
+optee/qemu/build/qemu-system-arm filter=lfs diff=lfs merge=lfs -text
+optee/toolchains/gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu.tar.xz filter=lfs diff=lfs merge=lfs -text
+optee/linux/vmlinux.o filter=lfs diff=lfs merge=lfs -text
+optee/linux/vmlinux filter=lfs diff=lfs merge=lfs -text
+optee/.repo/project-objects/linaro-swg/linux.git.git/objects/pack/pack-ab8c9e4eb3edc921b2bd72a174c7cc5605b919cb.pack filter=lfs diff=lfs merge=lfs -text
+.git/objects/8e/397fea9671d8ce621e8088f306a161e3cb44f4 filter=lfs diff=lfs merge=lfs -text
+.git/objects/7d/c4a1370a52002ea9f714591530d9b6704d2c2c filter=lfs diff=lfs merge=lfs -text

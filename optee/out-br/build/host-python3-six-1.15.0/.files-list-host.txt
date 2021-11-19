@@ -1,0 +1,6 @@
+host-python3-six,./lib/python3.9/site-packages/six.py
+host-python3-six,./lib/python3.9/site-packages/six.pyc
+host-python3-six,./lib/python3.9/site-packages/six-1.15.0-py3.9.egg-info/dependency_links.txt
+host-python3-six,./lib/python3.9/site-packages/six-1.15.0-py3.9.egg-info/SOURCES.txt
+host-python3-six,./lib/python3.9/site-packages/six-1.15.0-py3.9.egg-info/PKG-INFO
+host-python3-six,./lib/python3.9/site-packages/six-1.15.0-py3.9.egg-info/top_level.txt

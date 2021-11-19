@@ -1,0 +1,35 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+[remote "origin"]
+	url = https://github.com/OP-TEE/manifest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "default"]
+	remote = origin
+	merge = refs/heads/master
+[repo "syncstate.main"]
+	synctime = 2021-11-09T14:31:04.024530Z
+	version = 1
+[repo "syncstate.sys"]
+	argv = ['/home/qemu-sgx/devel/optee/.repo/repo/main.py', '--repo-dir=/home/qemu-sgx/devel/optee/.repo', '--wrapper-version=2.17', '--wrapper-path=/home/qemu-sgx/bin/repo', '--', 'sync']
+[repo "syncstate.superproject"]
+	superproject = false
+	haslocalmanifests = true
+	hassuperprojecttag = false
+[repo "syncstate.options"]
+	jobs = 1
+	mpupdate = true
+	clonebundle = true
+	retryfetches = 0
+	repoverify = true
+	quiet = false
+	verbose = false
+[repo "syncstate.remote.origin"]
+	url = https://github.com/OP-TEE/manifest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[repo "syncstate.branch.default"]
+	remote = origin
+	merge = refs/heads/master
